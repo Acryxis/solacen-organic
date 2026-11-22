@@ -9,3 +9,6 @@ docs/buffer-reference.*
 docs/source-research.md
 state/*.tmp
 state/local-*
+state/private-*
+assets/*.png
+docs/buffer-queue-proof.png

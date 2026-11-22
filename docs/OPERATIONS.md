@@ -51,6 +51,8 @@ The first 30 days use the written batch. An evergreen fallback rotates the libra
 
 Performance ingestion is automatic where Buffer returns metrics; API fields can be null or not available on a plan. Buffer documents that some unreported metrics default to zero; absence of an available metric is not proof of zero engagement. Shopify conversion aggregation still needs store analytics access in the recurring runtime; no private Shopify API token is assumed to exist just because this chat's connector works.
 
+A weekly Codex review is configured for Mondays at 19:00 local time, using the connected Shopify tools and private local reports. This can enrich the next content batch without daily owner approval, but depends on local Codex/computer availability. The cloud publisher and its Buffer metric collection do not depend on that review being online. Instagram's existing profile website link remains; its post-level attribution is coarse. Do not claim the biography link was changed to a post-specific UTM.
+
 The initial system does not automatically rewrite live product prices, invent margin inputs or spend to pursue a high-engagement post. Creative selection should use contribution/purchases first, then carts and qualified visits; do not add euros, counts and rates into the report's unnormalised weighted score. With weak samples, label the uncertainty and keep exploration.
 
 ## Roadmap
