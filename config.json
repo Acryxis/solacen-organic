@@ -1,9 +1,9 @@
 {
-  "enabled": false,
+  "enabled": true,
   "organization_id": "6b03265def50fac1e1d794c5",
   "channels": {
     "instagram": "6b0337c98541f09ecb681a8b",
-    "facebook": ""
+    "facebook": "6b033c308541f09ecb6897b8"
   },
   "asset_base_url": "https://raw.githubusercontent.com/Acryxis/solacen-organic/main/assets",
   "first_day": "2026-11-23",
