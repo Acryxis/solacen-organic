@@ -571,8 +571,212 @@
       "error": null,
       "product_key": "soothesight",
       "format": "carousel"
+    },
+    "6cddaa70592f105ef23a83cc94efeea90b03bd28013fab6db1b325327e91c319": {
+      "queue_id": "d01_morning_dawnrise",
+      "family": "morning_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T13:15:00.000Z",
+      "id": "6b034a72bf5d5a73b6ba8a8e",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Light for the start of your day.\n\nSmall comforts can have a place in your morning, too.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSave this idea for your own routine.\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:02:58.133Z",
+      "metrics": null,
+      "error": null
+    },
+    "9cd551ecd003b4093c71c43374e61336b83075fa88dafdd6b1edc2b9db208aed": {
+      "queue_id": "d01_morning_dawnrise",
+      "family": "morning_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T13:35:00.000Z",
+      "id": "6b034a72d5eabfb8ccd6cfaa",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Light for the start of your day.\n\nSmall comforts can have a place in your morning, too.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSee the features and selected version.\nExplore DawnRise: https://solacen.store/products/solacen-dawnrise-sunrise-alarm-clock?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_morning_dawnrise&variant=49933785891054",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:02:58.449Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "ac977f0951ce728d774eb76cedf10976a72293f90b0d923a6e01afcc16d57df7": {
+      "queue_id": "d01_evening_emberglow",
+      "family": "evening_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T23:15:00.000Z",
+      "id": "6b034a73cc364169c17fd672",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSave this idea for your own routine.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:02:59.001Z",
+      "metrics": null,
+      "error": null
+    },
+    "d3ad4048ed48b48a6a2ce1c2a47c8709f508d44971168cb3344e55e4fb87bba8": {
+      "queue_id": "d01_evening_emberglow",
+      "family": "evening_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T23:35:00.000Z",
+      "id": "6b034a73bf5d5a73b6ba8b89",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSee the features and selected version.\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_evening_emberglow&variant=49572433658094",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:02:59.320Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "bea8e432230b34a6b2e0936e624fdbc6293fbd170aaf937f786ff55ab5dc9c86": {
+      "queue_id": "d01_night_nocturne",
+      "family": "night_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T02:15:00.000Z",
+      "id": "6b034a73d5eabfb8ccd6d17d",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Give your bedtime audio a darker space.\n\nA small detail for the last part of your evening.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSave this idea for your own routine.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:02:59.750Z",
+      "metrics": null,
+      "error": null
+    },
+    "c8cae94bcdfae5c3d674c47eccad873e9f0e89716f1e5bbba449e6c705bfa03e": {
+      "queue_id": "d01_night_nocturne",
+      "family": "night_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T02:35:00.000Z",
+      "id": "6b034a74846b0ee907b3ec1e",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Give your bedtime audio a darker space.\n\nA small detail for the last part of your evening.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSee the features and selected version.\nExplore Nocturne: https://solacen.store/products/3d-stereo-sleep-mask-with-bluetooth-headphones?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_night_nocturne&variant=49572439032046",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T20:03:00.301Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-22T19:43:59.791237+00:00"
+  "last_run_utc": "2026-11-22T20:02:57.278172+00:00"
 }
