@@ -13,7 +13,7 @@ def build():
         key=(post.get('platform','unknown'),post.get('family','unknown'))
         group=groups[key]
         group['sent' if post.get('status')=='sent' else 'pending']+=1
-        if post.get('metrics') is not None:
+        if post.get('status')=='sent' and post.get('metrics') is not None:
             group['metrics_available']+=1
             for metric in post['metrics']:
                 # Do not sum percentages/rates with counts or combine unlike measures.

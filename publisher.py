@@ -73,7 +73,10 @@ class Buffer:
         result=[]
         after=None
         for _ in range(30):
-            data=self.query(READ_POSTS,{'input':{'organizationId':org,'filter':{'channelIds':channel_ids,'startDate':start}},'after':after})['posts']
+            # Live API check: startDate hid every known scheduled post. Reconcile
+            # by exact channels and pagination; never risk duplicate writes on a
+            # silently empty date-filter result.
+            data=self.query(READ_POSTS,{'input':{'organizationId':org,'filter':{'channelIds':channel_ids}},'after':after})['posts']
             result.extend(e['node'] for e in data['edges'])
             if not data['pageInfo']['hasNextPage']:
                 return result
