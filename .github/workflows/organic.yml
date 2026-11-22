@@ -1,5 +1,11 @@
 name: Solacen organic queue
 on:
+  push:
+    paths:
+      - publisher.py
+      - config.json
+      - queue.json
+      - .github/workflows/organic.yml
   schedule:
     - cron: '17 8,16,23 * * *'
   workflow_dispatch:
@@ -25,6 +31,9 @@ jobs:
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
         run: python publisher.py --write
+      - name: Summarize available organic evidence
+        if: always()
+        run: python feedback.py
       - name: Persist reconciliation state
         if: always()
         run: |

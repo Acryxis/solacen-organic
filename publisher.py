@@ -140,7 +140,7 @@ def plan(config,queue,now):
     first=date.fromisoformat(config['first_day'])
     today=now.astimezone(ZoneInfo(config['target_timezone'])).date()
     end=today+timedelta(days=config['lookahead_days'])
-    for day_offset in range(max(0,(today-first).days),(end-first).days):
+    for day_offset in range(max(0,(today-first).days),(end-first).days+1):
         cycle,index=divmod(day_offset,len(queue))
         if cycle>=config.get('maximum_cycle',1) or (cycle and not config.get('evergreen_rotation')):
             break
@@ -266,6 +266,9 @@ def main():
         if not key: raise ValueError('Buffer API key is not configured.')
         organizations=api.query('query { account { organizations { id name } } }')['account']['organizations']
         print(json.dumps([{'organization':o,'channels':api.channels(o['id'])} for o in organizations],indent=2))
+        return
+    if args.write and not config['enabled']:
+        print('Publishing disabled; nothing sent.')
         return
     if args.write and not key: raise ValueError('Buffer API key is not configured.')
     result=run(config,queue,api,datetime.now(timezone.utc),write=args.write)

@@ -33,7 +33,7 @@ class SchedulerTests(unittest.TestCase):
         (self.root/'assets').mkdir()
         (self.root/'assets'/'one.jpg').write_bytes(b'image')
         self.config=json.loads((p.ROOT/'config.json').read_text())
-        self.config.update(enabled=True,organization_id='org',asset_base_url='https://example.com/assets',lookahead_days=2,first_day='2026-11-23')
+        self.config.update(enabled=True,organization_id='org',asset_base_url='https://example.com/assets',lookahead_days=2,first_day='2026-11-24')
         self.config['channels']={'instagram':'ig','facebook':'fb'}
         self.rows=[{'id':'one','day_index':0,'family':'ritual','assets':['one.jpg'],'alt':'S5',
               'instagram_caption':'S5. Link in bio.','facebook_caption':'S5 {url}', 'review_state':'ready'}]
