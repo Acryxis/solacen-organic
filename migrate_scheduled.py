@@ -17,7 +17,7 @@ def run():
     log=p.load(recovery,{'before_posts':remote,'edits':[]})
     p.save(recovery,log)
     count=0
-    for day,row,platform,data in p.plan(c,q,datetime.now(timezone.utc)):
+    for row,platform,data in p.plan(c,q,datetime.now(timezone.utc)):
         matches=[x for x in remote if x['channelId']==data['channelId'] and x.get('dueAt') and p.parse_time(x['dueAt'])==p.parse_time(data['dueAt']) and x['status']=='scheduled']
         if not matches: continue
         assert len(matches)==1,'Unexpected duplicate scheduled slot; inspect manually.'

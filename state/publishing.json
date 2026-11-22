@@ -1,481 +1,5 @@
 {
   "posts": {
-    "ff91d154daa4661047381e4d6d95886ae4570e77578e0f912db217d5870e7067": {
-      "queue_id": "s5o01",
-      "family": "after_work",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-23T19:15:00.000Z",
-      "id": "6b033ca6d864a01105ea3493",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nSave this for your next slow evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:06.860Z",
-      "metrics": null,
-      "error": null
-    },
-    "43fcfa87f9dc07e1c8bcd958bd444604d3167ab8bba72e84647cf0b4b7015870": {
-      "queue_id": "s5o02",
-      "family": "features",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-24T19:15:00.000Z",
-      "id": "6b033ca7c72676f5e9522af9",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nExplore S5 through the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:07.843Z",
-      "metrics": null,
-      "error": null
-    },
-    "731c1ab1b8c7d5f4298cef5defdb049d0c9b5b2bb03d7ad5d049d58236de1250": {
-      "queue_id": "s5o03",
-      "family": "choice",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-25T19:15:00.000Z",
-      "id": "6b033ca8d5eabfb8ccd094a4",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nWhich would you choose for your bedside table?\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:08.312Z",
-      "metrics": null,
-      "error": null
-    },
-    "3b251384af44e1ee916e7bf5cefc78e37c3a86e9b6cdc522a42718fb0e4bdd61": {
-      "queue_id": "s5o04",
-      "family": "audio",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-26T19:15:00.000Z",
-      "id": "6b033ca8d864a01105ea3574",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nSave your favourite evening playlist, then explore S5 in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:08.750Z",
-      "metrics": null,
-      "error": null
-    },
-    "d5c074f96332eb905a092a9839734b81e5583f0fc92050e78279233308b00496": {
-      "queue_id": "s5o05",
-      "family": "gift",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-27T19:15:00.000Z",
-      "id": "6b033ca9d5eabfb8ccd094ea",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "The evening pairing, explained.\n\nEligible SootheSight S5, S6 and S7 models come with one complimentary StillNight mask when both items are in your cart. S3 is excluded. Other discounts cannot be combined.\n\nChoose your massager and mask colour on the product page.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:09.122Z",
-      "metrics": null,
-      "error": null
-    },
-    "58269cb3047c7aecac1eec7aa52d7592ab4db3325549433694f8952d86afdacc": {
-      "queue_id": "s5o06",
-      "family": "bedside",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-28T19:15:00.000Z",
-      "id": "6b033ca9cc364169c17a1334",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "A softer place to finish the day.\n\nWarm lighting, a comfortable place to sit, and a little room for yourself. S5 is a warming eye massager for your wind-down routine.\n\nSave the setting for a quieter evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:09.503Z",
-      "metrics": null,
-      "error": null
-    },
-    "1fae641da1b3ee5c7c1d65a29460cb226825ec8cb2fde49e52d61c7b1ce390ee": {
-      "queue_id": "s5o07",
-      "family": "gifting",
-      "platform": "instagram",
-      "status": "scheduled",
-      "dueAt": "2026-11-29T19:15:00.000Z",
-      "id": "6b033ca9c72676f5e9522c0b",
-      "channelId": "6b0337c98541f09ecb681a8b",
-      "text": "Comfort is a thoughtful gift.\n\nFor someone who enjoys a quieter evening: SootheSight S5, in a choice of three colours. Check destination-specific delivery information before ordering a gift.\n\nExplore the S5 details through our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:09.733Z",
-      "metrics": null,
-      "error": null
-    },
-    "8eec77022fe3ed952a36a9b50be5b669df8a4540b5746ce52bcbcbea27144435": {
-      "queue_id": "s5o01",
-      "family": "after_work",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-23T19:35:00.000Z",
-      "id": "6b033d0cd864a01105ea7364",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nWhat helps you switch out of work mode?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o01",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.346Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "ae03a31ca4ebc9d7e4ce6be5f4aad96d899ae8e0e9dd5c807f5f4dfbf55c0bf6": {
-      "queue_id": "s5o02",
-      "family": "features",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-24T19:35:00.000Z",
-      "id": "6b033d0ccc364169c17a4a5c",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nSee the features and choose your colour on the product page.\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o02",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.597Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "5f3022e6c7438a3e7879522c31bc99c29741638cea9109090146669d46d9442f": {
-      "queue_id": "s5o03",
-      "family": "choice",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-25T19:35:00.000Z",
-      "id": "6b033d0cd5eabfb8ccd0c5d2",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or black—which fits your room?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o03",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.782Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "3936db5c6eb26f08bbe13b6e96df441b46251b92be06bf9ab3c6378cc0e47fec": {
-      "queue_id": "s5o04",
-      "family": "audio",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-26T19:35:00.000Z",
-      "id": "6b033d0ccc364169c17a4a97",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nWhat would you put on your wind-down playlist?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o04",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.972Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "7360777cc668e018c7ff47c118b492dcb95affdd6cf05212581afb3ae0e6096e": {
-      "queue_id": "s5o05",
-      "family": "gift",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-27T19:35:00.000Z",
-      "id": "6b033d0dc72676f5e9525455",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "The evening pairing, explained.\n\nEligible SootheSight S5, S6 and S7 models come with one complimentary StillNight mask when both items are in your cart. S3 is excluded. Other discounts cannot be combined.\n\nUse Add massager + free mask on the page so both items enter your cart.\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o05",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:49.240Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "55501ae3d043d606bb136a134584170b6ddc6c85fd224b428ac1959a3c177759": {
-      "queue_id": "s5o06",
-      "family": "bedside",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-28T19:35:00.000Z",
-      "id": "6b033d0dc72676f5e9525482",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "A softer place to finish the day.\n\nWarm lighting, a comfortable place to sit, and a little room for yourself. S5 is a warming eye massager for your wind-down routine.\n\nIs your favourite wind-down spot the sofa or the bedroom?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o06",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:49.608Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
-    "8b17ccc957dcda89c34356a7a5fe8330bac750cb8c41ebe92d90f60c28940c56": {
-      "queue_id": "s5o07",
-      "family": "gifting",
-      "platform": "facebook",
-      "status": "scheduled",
-      "dueAt": "2026-11-29T19:35:00.000Z",
-      "id": "6b033d0dd864a01105ea73c8",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Comfort is a thoughtful gift.\n\nFor someone who enjoys a quieter evening: SootheSight S5, in a choice of three colours. Check destination-specific delivery information before ordering a gift.\n\nBrowse the features and delivery information before choosing a gift.\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o07",
-      "sentAt": null,
-      "externalLink": null,
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:49.844Z",
-      "metrics": [
-        {
-          "type": "reactions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "comments",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "engagementRate",
-          "value": 0,
-          "unit": "percentage"
-        },
-        {
-          "type": "impressions",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "reach",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "shares",
-          "value": 0,
-          "unit": "count"
-        },
-        {
-          "type": "clicks",
-          "value": 0,
-          "unit": "count"
-        }
-      ],
-      "error": null
-    },
     "46aac482f91a19dec52cd95f270f56c9302ac5e4d36b48806e7d68b97fee6037": {
       "queue_id": "s5_intro_20261122",
       "family": "introduction",
@@ -543,8 +67,512 @@
         }
       ],
       "error": null
+    },
+    "ff91d154daa4661047381e4d6d95886ae4570e77578e0f912db217d5870e7067": {
+      "queue_id": "s5o01",
+      "family": "after_work",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T19:15:00.000Z",
+      "id": "6b033ca6d864a01105ea3493",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nSave this for your next slow evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:06.860Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
+    },
+    "09d3e81325183b2317dbbc2ef51724ad4d3f78e27133571851e62f85ae3254da": {
+      "queue_id": "s5o01",
+      "family": "after_work",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-23T19:35:00.000Z",
+      "id": "6b033d0cd864a01105ea7364",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nWhat helps you switch out of work mode?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o01&variant=49549901398254",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:48.346Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
+    },
+    "57d3fbb7ea012b3c6ebd0cd65b4d2bb3dd9c18868ab495ab8cec68fe5c1c2719": {
+      "queue_id": "pageglow01",
+      "family": "ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T19:15:00.000Z",
+      "id": "6b033ca7c72676f5e9522af9",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "One more chapter. Less overhead light.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nSave this for your next quiet evening.\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:07.843Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "pageglow",
+      "format": "carousel"
+    },
+    "716adde8df06ef32713c70e8395d73f75ff5ee5e2d716506a392bc3df9853a77": {
+      "queue_id": "pageglow01",
+      "family": "ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T19:35:00.000Z",
+      "id": "6b033d0ccc364169c17a4a5c",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "One more chapter. Less overhead light.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWhat would you add to your evening corner?\nExplore PageGlow: https://solacen.store/products/solacen-pageglow-rechargeable-reading-light?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=pageglow01&variant=49933805027566",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:48.597Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "pageglow",
+      "format": "carousel"
+    },
+    "7067ceeb5bcd8662fe17ea545826975c479adcd424729b850975b5677ba212fd": {
+      "queue_id": "s5o02",
+      "family": "features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T19:15:00.000Z",
+      "id": "6b033ca8d5eabfb8ccd094a4",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nExplore S5 through the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:08.312Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "soothesight",
+      "format": "reel"
+    },
+    "acc00f34b579c959be77ae46a209cae878ff8d96479ef725944b3135b2fb3607": {
+      "queue_id": "s5o02",
+      "family": "features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T19:35:00.000Z",
+      "id": "6b033d0cd5eabfb8ccd0c5d2",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nSee the features and choose your colour on the product page.\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o02&variant=49549901398254",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:48.782Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "soothesight",
+      "format": "reel"
+    },
+    "838b2b089241ba1a21b3ec7f45b43d83baa3262313eec5edac481af822a44ff6": {
+      "queue_id": "emberglow01",
+      "family": "ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-26T19:15:00.000Z",
+      "id": "6b033ca8d864a01105ea3574",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSave this for your next quiet evening.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:08.750Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "emberglow",
+      "format": "reel"
+    },
+    "ec4b7aee4a7f8376775443b4438e3cd3427d7a0119695e196be3005c0dac50f4": {
+      "queue_id": "emberglow01",
+      "family": "ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-26T19:35:00.000Z",
+      "id": "6b033d0ccc364169c17a4a97",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhat would you add to your evening corner?\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=emberglow01&variant=49572433658094",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:48.972Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "emberglow",
+      "format": "reel"
+    },
+    "54f3cca1e56b2101a09cad589ec227bfb704b60f3c7f7d36574c263e9308811d": {
+      "queue_id": "s5o03",
+      "family": "choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T19:15:00.000Z",
+      "id": "6b033ca9d5eabfb8ccd094ea",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nWhich would you choose for your bedside table?\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:09.122Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
+    },
+    "4b7e0b3b1e8b3c519b07e6a7974205cd1d6800f178fae169a8834d994b897709": {
+      "queue_id": "s5o03",
+      "family": "choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T19:35:00.000Z",
+      "id": "6b033d0dc72676f5e9525455",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or black—which fits your room?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o03&variant=49549901398254",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:49.240Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
+    },
+    "2e03b11e9879a062daee9d73f388f0c7536a921efb7a0eb689e8f1ce6dc62cca": {
+      "queue_id": "dawnrise01",
+      "family": "ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T19:15:00.000Z",
+      "id": "6b033ca9cc364169c17a1334",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A softer start to darker mornings.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSave this for your next quiet evening.\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:09.503Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "dawnrise",
+      "format": "carousel"
+    },
+    "41c30774b0efb365a9b215501ec72c62f2584eb94d6d092912a37d0d4df0e4b4": {
+      "queue_id": "dawnrise01",
+      "family": "ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T19:35:00.000Z",
+      "id": "6b033d0dc72676f5e9525482",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A softer start to darker mornings.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nWhat would you add to your evening corner?\nExplore DawnRise: https://solacen.store/products/solacen-dawnrise-sunrise-alarm-clock?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=dawnrise01&variant=49933785891054",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:49.608Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "dawnrise",
+      "format": "carousel"
+    },
+    "751c4cb0c979202d3d62af2903cfb67a8b1b8631f0473baaacb3e39af0f5bd7f": {
+      "queue_id": "s5o04",
+      "family": "audio",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T19:15:00.000Z",
+      "id": "6b033ca9c72676f5e9522c0b",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nSave your favourite evening playlist, then explore S5 in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:04:09.733Z",
+      "metrics": null,
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
+    },
+    "3c46b34cd99bae9868b4e7fb8252d586b1a5fbb46be8f804a1cf4b7b8ddd3ec7": {
+      "queue_id": "s5o04",
+      "family": "audio",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T19:35:00.000Z",
+      "id": "6b033d0dd864a01105ea73c8",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nWhat would you put on your wind-down playlist?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o04&variant=49549901398254",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:05:49.844Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "soothesight",
+      "format": "carousel"
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-22T19:19:40.449178+00:00"
+  "last_run_utc": "2026-11-22T19:42:54.902180+00:00"
 }

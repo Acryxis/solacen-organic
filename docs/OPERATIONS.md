@@ -1,5 +1,26 @@
 # Solacen organic system — 22 November 2026
 
+## Latest expansion — supersedes the initial S5-only batch below
+
+Live accounts reverified: Instagram @solacenstore and the Solacen Facebook Page. The library now holds 60 daily concepts: 24 S5 concepts, three for each of the other eleven products, and three comparisons. All twelve full product descriptions and existing featured images were retrieved from Shopify. Store design, prices, shipping and offers were preserved.
+
+New assets: two AI lifestyle photographs (PageGlow reading corner and DawnRise winter morning), 36 reusable editorial layouts, distinct hook covers, and six original-instrumental music Reels. Product photographs are fitted whole into native layouts; no product geometry or controls are altered. Reels are 1080×1920, 30fps H.264/AAC slideshows, 11.3 seconds, with gentle dissolves. Audio is an original synthesized ambient composition, without samples, vocals or a claim to reproduce built-in device sounds. It is not a trending commercial song. No paid video credits or model API were used.
+
+Fourteen existing scheduled posts were edited IN PLACE: seven each platform for 23–29 November. Dates, IDs and automatic publishing were preserved; no duplicates. API readback confirmed four music-Reel destinations in that week and optional Instagram self-disclosure OFF on all seven scheduled posts. The already published introduction is historical and was not edited. Meta can still apply its own labels; retain any required disclosure on future realistic synthetic video/audio.
+
+Native music on photo/carousel posts requires manual completion in Buffer. Use automatic music Reels alongside silent carousels, never notification publishing for the daily system. Accepted video assets are not yet proof of scheduled Reel publication; observe at due time. Facebook links match pictured products/variants; comparisons lead to the collection. Instagram still uses the existing profile link, with limited post-level attribution. Campaign UTM: solacen_organic_2026.
+
+Strategy: specific visual hooks, recognisable products, useful feature/choice carousels, evening routines and gifting without arrival promises. Instagram serves discovery and profile exploration; Facebook uses explanatory copy and product links. Views, saves and shares are early signals; Shopify visits, carts, real orders and contribution decide commercial value. Posting times and hook patterns remain hypotheses. Compare platforms and products separately; raw totals across unlike formats are not a controlled test.
+
+The seven-day cloud-refilled Buffer reserve remains active. The first batch now lasts 60 days before evergreen retrieval, with a 60-day concept cooldown. This is batch production, not daily fresh AI photography. Thirteen local scheduler tests pass, including product-specific destinations, automatic video payloads and optional/required disclosure. The weekly local Codex review should replenish the batch from real performance; publishing itself remains external and independent of this chat/laptop.
+
+Sources checked for this expansion:
+- https://support.buffer.com/en-us/articles/using-instagram-with-buffer-YSjg2dXFV8
+- https://support.buffer.com/en-us/articles/adding-music-stickers-and-other-effects-to-instagram-and-tiktok-posts-G5QrWfQL4k
+- https://about.fb.com/news/2024/04/metas-approach-to-labeling-ai-generated-content-and-manipulated-media/
+
+The following sections retain the original implementation history; the expansion above controls where counts, cycle length, media or campaign identifiers differ.
+
 ## Operating contract
 
 Daily organic publishing is authorized to @solacenstore Instagram and the Solacen Facebook Page, with no daily content approval. No ad spend, subscription purchase, model API spending, new discounts, supplier orders or sensitive customer data transmission is part of this system. Reuse product descriptions and approved imagery. Do not manufacture customer testimonials or imply S5 is a neck massager.

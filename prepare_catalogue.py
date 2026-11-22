@@ -14,7 +14,7 @@ def fetch(product):
     product['reference_file']=str(path.relative_to(ROOT))
     return product
 if __name__=='__main__':
-    products=json.loads((ROOT/'catalogue.json').read_text())
+    products=json.loads((ROOT/'catalogue.json').read_text(encoding='utf-8'))
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool: products=list(pool.map(fetch,products))
     (ROOT/'catalogue.json').write_text(json.dumps(products,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print('Saved public descriptions and original references for',len(products),'products.')

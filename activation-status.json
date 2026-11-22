@@ -2,12 +2,12 @@
   "updated": "2026-11-22",
   "research_read": true,
   "live_store_reviewed": true,
-  "original_ai_images_created": 4,
-  "post_concepts": 30,
+  "original_ai_images_created": 6,
+  "post_concepts": 60,
   "instagram_connected_api_verified": true,
   "facebook_connected_api_verified": true,
   "buffer_api_read_test": "passed",
-  "local_scheduler_tests": "10 passed",
+  "local_scheduler_tests": "13 passed",
   "public_asset_hosting_verified": true,
   "cloud_workflow_deployed": true,
   "live_publish_verified": true,
@@ -23,5 +23,10 @@
   "facebook_scheduled": 7,
   "weekly_review_automation": "solacen-weekly-organic-growth-review",
   "instagram_first_live": "https://www.instagram.com/p/DgDhl-JF1b-/",
-  "facebook_first_live": "https://www.facebook.com/122123202141501800/posts/122123203737501800"
+  "facebook_first_live": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
+  "catalogue_products": 12,
+  "music_reels_prepared": 6,
+  "music_reel_destinations_scheduled": 4,
+  "instagram_optional_labels_off_scheduled": 7,
+  "scheduled_ids_preserved": true
 }

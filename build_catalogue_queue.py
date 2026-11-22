@@ -12,6 +12,10 @@ GREEN='#28483e'; CREAM='#f6f0e6'; INK='#264238'; ACCENT='#b27860'
 FONT=Path('C:/Windows/Fonts')
 def font(size,serif=False): return ImageFont.truetype(str(FONT/('georgia.ttf' if serif else 'segoeui.ttf')),size)
 PRODUCTS={p['content_key']:p for p in json.loads((ROOT/'catalogue.json').read_text(encoding='utf-8'))}
+PICTURED_VARIANTS={'pageglow':'49933805027566','dawnrise':'49933785891054','emberglow':'49572433658094',
+ 'easeknead':'49572431495406','quietweight':'49572435296494','lumanest':'49572436312302',
+ 'nocturne':'49572439032046','hushwave':'49572440244462','stillnight':'49572456071406',
+ 'warmease':'49579082449134','lumarest':'49599480234222'}
 DETAILS={
  'soothesight':('SootheSight S5','Make room for a warmer pause.','Warmth · Massage · Bluetooth audio','S5 also has a digital display and three colour choices. Select the exact model on the product page.','After-work comfort','A little technology. A quieter ritual.'),
  'pageglow':('PageGlow','One more chapter. Less overhead light.','Clip-on · Flexible neck · Rechargeable','PageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.','Reading corner','A reading light that goes where the book goes.'),
@@ -126,7 +130,7 @@ def build(render=True):
                  'format':'carousel','assets':assets,'alt':f'Solacen {name}: {features}. Exact store product photograph in a branded layout.',
                  'instagram_caption':f'{headline}\n\n{body}{extra}\n\n{ig_cta}\nExplore {name}: link in bio.\n\n#Solacen #EveningRoutine #{name}',
                  'facebook_caption':f'{headline}\n\n{body}{extra}\n\n{fb_cta}\nExplore {name}: {{url}}',
-                 'product_key':key,'product_handle':PRODUCTS[key]['handle'],'review_state':'ready','generation_cost_eur':0,
+                 'product_key':key,'product_handle':PRODUCTS[key]['handle'],'variant_id':PICTURED_VARIANTS[key],'review_state':'ready','generation_cost_eur':0,
                  'ai_assisted':True,'disclosure_required':False,'claim_source':'catalogue.json: live Shopify description, 22 November 2026'}
             others.append(row)
     # Alternate a lead-product lesson with catalogue discovery. The first week
