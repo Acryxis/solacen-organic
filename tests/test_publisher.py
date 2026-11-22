@@ -38,6 +38,7 @@ class SchedulerTests(unittest.TestCase):
         (self.root/'assets').mkdir()
         (self.root/'assets'/'one.jpg').write_bytes(b'image')
         self.config=json.loads((p.ROOT/'config.json').read_text())
+        self.config.pop('slot_order',None);self.config.pop('daily_slots',None)
         self.config.update(enabled=True,organization_id='org',asset_base_url='https://example.com/assets',lookahead_days=2,first_day='2026-11-24')
         self.config['channels']={'instagram':'ig','facebook':'fb'}
         self.rows=[{'id':'one','day_index':0,'family':'ritual','assets':['one.jpg'],'alt':'S5',
@@ -80,6 +81,34 @@ class SchedulerTests(unittest.TestCase):
         data=p.make_input(self.config,row,'facebook',self.now.date())
         self.assertIn('/products/solacen-pageglow-rechargeable-reading-light?',data['text'])
         self.assertNotIn('variant=',data['text'])
+    def four_slot_setup(self):
+        self.config['slot_order']=['morning','afternoon','evening','night']
+        self.config['daily_slots']={s:{'instagram':t,'facebook':t} for s,t in zip(self.config['slot_order'],['08:15','14:15','18:15','21:15'])}
+        self.config['maximum_cycle']=1
+        self.rows=[dict(self.rows[0],id='slot_'+s,time_slot=s) for s in self.config['slot_order']]
+    def test_four_daily_covers_sixty_days_without_shortening_batch(self):
+        self.four_slot_setup()
+        self.rows=[dict(row,id=f'{day}_{row["id"]}') for day in range(60) for row in self.rows]
+        self.config['lookahead_days']=70
+        planned=list(p.plan(self.config,self.rows,self.now))
+        self.assertEqual(len(planned),480)
+        local_days={p.parse_time(data['dueAt']).astimezone(p.ZoneInfo(self.config['target_timezone'])).date() for _,_,data in planned}
+        self.assertEqual(len(local_days),60)
+    def test_four_daily_times_are_target_market_times(self):
+        self.four_slot_setup()
+        planned=list(p.plan(self.config,self.rows,self.now))
+        times=[data['dueAt'][11:16] for _,platform,data in planned if platform=='instagram']
+        self.assertEqual(times,['13:15','19:15','23:15','02:15'])
+    def test_existing_afternoon_posts_are_preserved_when_increasing_cadence(self):
+        self.four_slot_setup();api=FakeBuffer()
+        row=self.rows[1]
+        for platform in ('instagram','facebook'):
+            data=p.make_input(self.config,row,platform,__import__('datetime').date(2026,11,24))
+            api.query('createPost',{'input':data},mutation=True)
+        old_ids={post['id'] for post in api.created}
+        self.execute(api)
+        self.assertEqual(len(api.created),8)
+        self.assertTrue(old_ids.issubset({post['id'] for post in api.created}))
     def test_music_reel_is_automatic_video_on_both_channels(self):
         row=dict(self.rows[0],format='reel',assets=['calm.mp4'],hook='Quiet evening')
         for platform in ('instagram','facebook'):

@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "s5o01",
+    "day_index": 0,
+    "family": "after_work",
+    "hook": "Let the day fade away.",
+    "format": "carousel",
+    "assets": [
+      "s5o01-cover.jpg",
+      "s5-sofa-pink-01.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Let the day fade away.",
+    "instagram_caption": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nSave this for your next slow evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nWhat helps you switch out of work mode?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "after_work / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "pageglow01",
+    "family": "ritual",
+    "hook": "One more chapter. Less overhead light.",
+    "format": "carousel",
+    "assets": [
+      "pageglow01-cover.jpg",
+      "pageglow-reading-lifestyle.jpg",
+      "pageglow-editorial-2.jpg"
+    ],
+    "alt": "Solacen PageGlow: Clip-on · Flexible neck · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "One more chapter. Less overhead light.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nSave this for your next quiet evening.\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+    "facebook_caption": "One more chapter. Less overhead light.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWhat would you add to your evening corner?\nExplore PageGlow: {url}",
+    "product_key": "pageglow",
+    "product_handle": "solacen-pageglow-rechargeable-reading-light",
+    "variant_id": "49933805027566",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 1,
+    "experiment": {
+      "hypothesis": "ritual / pageglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o02",
+    "day_index": 2,
+    "family": "features",
+    "hook": "A little technology. A quieter ritual.",
+    "format": "reel",
+    "assets": [
+      "soothesight-ambient-reel.mp4"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A little technology. A quieter ritual.",
+    "instagram_caption": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nExplore S5 through the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nSee the features and choose your colour on the product page.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "features / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "emberglow01",
+    "family": "ritual",
+    "hook": "Turn down the day. Keep the glow.",
+    "format": "reel",
+    "assets": [
+      "emberglow-ambient-reel.mp4"
+    ],
+    "alt": "Solacen EmberGlow: Amber + red light · Adjustable brightness. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSave this for your next quiet evening.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+    "facebook_caption": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhat would you add to your evening corner?\nExplore EmberGlow: {url}",
+    "product_key": "emberglow",
+    "product_handle": "red-light-therapy-lamp-for-sleep-improvement",
+    "variant_id": "49572433658094",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 3,
+    "experiment": {
+      "hypothesis": "ritual / emberglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "s5o03",
+    "day_index": 4,
+    "family": "choice",
+    "hook": "Pink, white or black?",
+    "format": "carousel",
+    "assets": [
+      "s5o03-cover.jpg",
+      "s5-colour-choice-04.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Pink, white or black?",
+    "instagram_caption": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nWhich would you choose for your bedside table?\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or black—which fits your room?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "choice / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "dawnrise01",
+    "family": "ritual",
+    "hook": "A softer start to darker mornings.",
+    "format": "carousel",
+    "assets": [
+      "dawnrise01-cover.jpg",
+      "dawnrise-morning-lifestyle.jpg",
+      "dawnrise-editorial-2.jpg"
+    ],
+    "alt": "Solacen DawnRise: Wake-up light · Clock · Touch controls. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A softer start to darker mornings.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSave this for your next quiet evening.\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+    "facebook_caption": "A softer start to darker mornings.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nWhat would you add to your evening corner?\nExplore DawnRise: {url}",
+    "product_key": "dawnrise",
+    "product_handle": "solacen-dawnrise-sunrise-alarm-clock",
+    "variant_id": "49933785891054",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 5,
+    "experiment": {
+      "hypothesis": "ritual / dawnrise can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o04",
+    "day_index": 6,
+    "family": "audio",
+    "hook": "Your evening. Your soundtrack.",
+    "format": "carousel",
+    "assets": [
+      "s5o04-cover.jpg",
+      "s5-black-audio-03.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Your evening. Your soundtrack.",
+    "instagram_caption": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nSave your favourite evening playlist, then explore S5 in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Your evening. Your soundtrack.\n\nSootheSight S5 supports Bluetooth audio, alongside warmth and massage. Choose the sound you want for your own wind-down.\n\nWhat would you put on your wind-down playlist?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "audio / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "nocturne01",
+    "family": "ritual",
+    "hook": "Your evening audio. A darker space.",
+    "format": "carousel",
+    "assets": [
+      "nocturne01-cover.jpg",
+      "nocturne-editorial-2.jpg"
+    ],
+    "alt": "Solacen Nocturne: Bluetooth audio · 3D contour · Soft lining. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Your evening audio. A darker space.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSave this for your next quiet evening.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+    "facebook_caption": "Your evening audio. A darker space.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nWhat would you add to your evening corner?\nExplore Nocturne: {url}",
+    "product_key": "nocturne",
+    "product_handle": "3d-stereo-sleep-mask-with-bluetooth-headphones",
+    "variant_id": "49572439032046",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 7,
+    "experiment": {
+      "hypothesis": "ritual / nocturne can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o05",
+    "day_index": 8,
+    "family": "gift",
+    "hook": "The evening pairing, explained.",
+    "format": "carousel",
+    "assets": [
+      "s5o05-cover.jpg",
+      "s5-pink-reference.jpg",
+      "s5-white-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: The evening pairing, explained.",
+    "instagram_caption": "The evening pairing, explained.\n\nEligible SootheSight S5, S6 and S7 models come with one complimentary StillNight mask when both items are in your cart. S3 is excluded. Other discounts cannot be combined.\n\nChoose your massager and mask colour on the product page.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "The evening pairing, explained.\n\nEligible SootheSight S5, S6 and S7 models come with one complimentary StillNight mask when both items are in your cart. S3 is excluded. Other discounts cannot be combined.\n\nUse Add massager + free mask on the page so both items enter your cart.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gift / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "lumanest01",
+    "family": "ritual",
+    "hook": "Give the room its own quiet soundtrack.",
+    "format": "reel",
+    "assets": [
+      "lumanest-ambient-reel.mp4"
+    ],
+    "alt": "Solacen LumaNest: 10 soundscapes · Ambient light · Sleep timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Give the room its own quiet soundtrack.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nSave this for your next quiet evening.\nExplore LumaNest: link in bio.\n\n#Solacen #EveningRoutine #LumaNest",
+    "facebook_caption": "Give the room its own quiet soundtrack.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nWhat would you add to your evening corner?\nExplore LumaNest: {url}",
+    "product_key": "lumanest",
+    "product_handle": "colorful-light-sleep-sound-machine-with-white-noise",
+    "variant_id": "49572436312302",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 9,
+    "experiment": {
+      "hypothesis": "ritual / lumanest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "s5o06",
+    "day_index": 10,
+    "family": "bedside",
+    "hook": "A softer place to finish the day.",
+    "format": "carousel",
+    "assets": [
+      "s5o06-cover.jpg",
+      "s5-bedside-white-02.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A softer place to finish the day.",
+    "instagram_caption": "A softer place to finish the day.\n\nWarm lighting, a comfortable place to sit, and a little room for yourself. S5 is a warming eye massager for your wind-down routine.\n\nSave the setting for a quieter evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A softer place to finish the day.\n\nWarm lighting, a comfortable place to sit, and a little room for yourself. S5 is a warming eye massager for your wind-down routine.\n\nIs your favourite wind-down spot the sofa or the bedroom?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "bedside / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "hushwave01",
+    "family": "ritual",
+    "hook": "Bedtime audio, without wearing earbuds.",
+    "format": "carousel",
+    "assets": [
+      "hushwave01-cover.jpg",
+      "hushwave-editorial-2.jpg"
+    ],
+    "alt": "Solacen HushWave: Under-pillow speaker · Bluetooth · Timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Bedtime audio, without wearing earbuds.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nSave this for your next quiet evening.\nExplore HushWave: link in bio.\n\n#Solacen #EveningRoutine #HushWave",
+    "facebook_caption": "Bedtime audio, without wearing earbuds.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nWhat would you add to your evening corner?\nExplore HushWave: {url}",
+    "product_key": "hushwave",
+    "product_handle": "bone-conduction-under-pillow-bluetooth-speaker",
+    "variant_id": "49572440244462",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 11,
+    "experiment": {
+      "hypothesis": "ritual / hushwave can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o07",
+    "day_index": 12,
+    "family": "gifting",
+    "hook": "Comfort is a thoughtful gift.",
+    "format": "carousel",
+    "assets": [
+      "s5o07-cover.jpg",
+      "s5-colour-choice-04.jpg",
+      "s5-pink-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Comfort is a thoughtful gift.",
+    "instagram_caption": "Comfort is a thoughtful gift.\n\nFor someone who enjoys a quieter evening: SootheSight S5, in a choice of three colours. Check destination-specific delivery information before ordering a gift.\n\nExplore the S5 details through our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Comfort is a thoughtful gift.\n\nFor someone who enjoys a quieter evening: SootheSight S5, in a choice of three colours. Check destination-specific delivery information before ordering a gift.\n\nBrowse the features and delivery information before choosing a gift.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gifting / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "quietweight01",
+    "family": "ritual",
+    "hook": "A little weight. A little stillness.",
+    "format": "carousel",
+    "assets": [
+      "quietweight01-cover.jpg",
+      "quietweight-editorial-2.jpg"
+    ],
+    "alt": "Solacen QuietWeight: Weighted feel · Light-blocking · Soft fabric. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A little weight. A little stillness.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSave this for your next quiet evening.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+    "facebook_caption": "A little weight. A little stillness.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWhat would you add to your evening corner?\nExplore QuietWeight: {url}",
+    "product_key": "quietweight",
+    "product_handle": "gravity-eye-mask-for-sleep-and-relaxation",
+    "variant_id": "49572435296494",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 13,
+    "experiment": {
+      "hypothesis": "ritual / quietweight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o08",
+    "day_index": 14,
+    "family": "after_work",
+    "hook": "Close the laptop. Make room for yourself.",
+    "format": "carousel",
+    "assets": [
+      "s5o08-cover.jpg",
+      "s5-sofa-pink-01.jpg",
+      "s5-black-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Close the laptop. Make room for yourself.",
+    "instagram_caption": "Close the laptop. Make room for yourself.\n\nYour evening does not have to carry the pace of your working day. Put the screen aside and make time for your own comfortable routine.\n\nS5 features and colours are in the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Close the laptop. Make room for yourself.\n\nYour evening does not have to carry the pace of your working day. Put the screen aside and make time for your own comfortable routine.\n\nWhat marks the end of your working day?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "after_work / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "easeknead01",
+    "family": "ritual",
+    "hook": "Let your break be a little more hands-on.",
+    "format": "carousel",
+    "assets": [
+      "easeknead01-cover.jpg",
+      "easeknead-editorial-2.jpg"
+    ],
+    "alt": "Solacen EaseKnead: Kneading massage · 4 intensities · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Let your break be a little more hands-on.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSave this for your next quiet evening.\nExplore EaseKnead: link in bio.\n\n#Solacen #EveningRoutine #EaseKnead",
+    "facebook_caption": "Let your break be a little more hands-on.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nWhat would you add to your evening corner?\nExplore EaseKnead: {url}",
+    "product_key": "easeknead",
+    "product_handle": "electric-head-scalp-massager-red-light-body-massage-relaxation",
+    "variant_id": "49572431495406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 15,
+    "experiment": {
+      "hypothesis": "ritual / easeknead can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o09",
+    "day_index": 16,
+    "family": "choice",
+    "hook": "Meet the white S5.",
+    "format": "carousel",
+    "assets": [
+      "s5o09-cover.jpg",
+      "s5-white-reference.jpg",
+      "s5-bedside-white-02.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Meet the white S5.",
+    "instagram_caption": "Meet the white S5.\n\nA white shell with grey padded trim, a digital display, warmth, massage and Bluetooth audio. This is the S5 version shown here; other SootheSight models differ.\n\nSee all three S5 colours in our profile link.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Meet the white S5.\n\nA white shell with grey padded trim, a digital display, warmth, massage and Bluetooth audio. This is the S5 version shown here; other SootheSight models differ.\n\nWhich small details matter most when you choose evening tech?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "choice / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "stillnight01",
+    "family": "ritual",
+    "hook": "Pack a little darkness for your next pause.",
+    "format": "carousel",
+    "assets": [
+      "stillnight01-cover.jpg",
+      "stillnight-editorial-2.jpg"
+    ],
+    "alt": "Solacen StillNight: Contoured shape · Light-blocking · Compact. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Pack a little darkness for your next pause.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nSave this for your next quiet evening.\nExplore StillNight: link in bio.\n\n#Solacen #EveningRoutine #StillNight",
+    "facebook_caption": "Pack a little darkness for your next pause.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nWhat would you add to your evening corner?\nExplore StillNight: {url}",
+    "product_key": "stillnight",
+    "product_handle": "3d-light-blocking-sleep-eye-mask-for-hot-cold-therapy",
+    "variant_id": "49572456071406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 17,
+    "experiment": {
+      "hypothesis": "ritual / stillnight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o10",
+    "day_index": 18,
+    "family": "ritual",
+    "hook": "From busy day to quiet evening.",
+    "format": "carousel",
+    "assets": [
+      "s5o10-cover.jpg",
+      "s5-bedside-white-02.jpg",
+      "s5-black-audio-03.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: From busy day to quiet evening.",
+    "instagram_caption": "From busy day to quiet evening.\n\nA small wind-down sequence: put work away, soften the lighting, choose your audio, and settle somewhere comfortable. Follow the instructions supplied with your S5 for fit and operation.\n\nSave this simple evening sequence.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "From busy day to quiet evening.\n\nA small wind-down sequence: put work away, soften the lighting, choose your audio, and settle somewhere comfortable. Follow the instructions supplied with your S5 for fit and operation.\n\nWhich part of your evening routine do you protect most?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "ritual / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "warmease01",
+    "family": "ritual",
+    "hook": "Make a little room for warmth.",
+    "format": "carousel",
+    "assets": [
+      "warmease01-cover.jpg",
+      "warmease-editorial-2.jpg"
+    ],
+    "alt": "Solacen WarmEase: Adjustable warmth · Vibration · Cordless. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Make a little room for warmth.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nSave this for your next quiet evening.\nExplore WarmEase: link in bio.\n\n#Solacen #EveningRoutine #WarmEase",
+    "facebook_caption": "Make a little room for warmth.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nWhat would you add to your evening corner?\nExplore WarmEase: {url}",
+    "product_key": "warmease",
+    "product_handle": "heated-massage-shoulder-support",
+    "variant_id": "49579082449134",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 19,
+    "experiment": {
+      "hypothesis": "ritual / warmease can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o11",
+    "day_index": 20,
+    "family": "features",
+    "hook": "Warmth, with a little more choice.",
+    "format": "carousel",
+    "assets": [
+      "s5o11-cover.jpg",
+      "s5-pink-reference.jpg",
+      "s5-black-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Warmth, with a little more choice.",
+    "instagram_caption": "Warmth, with a little more choice.\n\nS5 combines warming eye comfort with massage and Bluetooth audio. The S5 digital display and controls are shown in the product images.\n\nSwipe for a closer look at the S5 colours.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Warmth, with a little more choice.\n\nS5 combines warming eye comfort with massage and Bluetooth audio. The S5 digital display and controls are shown in the product images.\n\nCompare the labelled S5 images before choosing your version.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "features / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "lumarest01",
+    "family": "ritual",
+    "hook": "Give your skincare routine a considered pause.",
+    "format": "carousel",
+    "assets": [
+      "lumarest01-cover.jpg",
+      "lumarest-editorial-2.jpg"
+    ],
+    "alt": "Solacen LumaRest: Silicone LED panels · Separate controller. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Give your skincare routine a considered pause.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSave this for your next quiet evening.\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
+    "facebook_caption": "Give your skincare routine a considered pause.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nWhat would you add to your evening corner?\nExplore LumaRest: {url}",
+    "product_key": "lumarest",
+    "product_handle": "photon-therapy-led-facial-mask-with-neck-care",
+    "variant_id": "49599480234222",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 21,
+    "experiment": {
+      "hypothesis": "ritual / lumarest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o12",
+    "day_index": 22,
+    "family": "gift",
+    "hook": "A gift without the guesswork.",
+    "format": "carousel",
+    "assets": [
+      "s5o12-cover.jpg",
+      "s5-sofa-pink-01.jpg",
+      "s5-colour-choice-04.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A gift without the guesswork.",
+    "instagram_caption": "A gift without the guesswork.\n\nChoose an eligible S5, S6 or S7, choose the StillNight colour, and tap Add massager + free mask. The gift discount applies automatically with both items in the cart. One gift per order; no combined discounts.\n\nThe pairing selector is on the SootheSight product page.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A gift without the guesswork.\n\nChoose an eligible S5, S6 or S7, choose the StillNight colour, and tap Add massager + free mask. The gift discount applies automatically with both items in the cart. One gift per order; no combined discounts.\n\nOpen the product page and use the pairing selector rather than adding only the massager.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gift / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "pageglow02",
+    "family": "choice",
+    "hook": "A reading light that goes where the book goes.",
+    "format": "carousel",
+    "assets": [
+      "pageglow02-cover.jpg",
+      "pageglow-reading-lifestyle.jpg",
+      "pageglow-editorial-3.jpg"
+    ],
+    "alt": "Solacen PageGlow: Clip-on · Flexible neck · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A reading light that goes where the book goes.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWhich detail fits your routine?\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+    "facebook_caption": "A reading light that goes where the book goes.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nExplore the features and choose your setup.\nExplore PageGlow: {url}",
+    "product_key": "pageglow",
+    "product_handle": "solacen-pageglow-rechargeable-reading-light",
+    "variant_id": "49933805027566",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 23,
+    "experiment": {
+      "hypothesis": "choice / pageglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o13",
+    "day_index": 24,
+    "family": "seasonal",
+    "hook": "A quieter kind of winter evening.",
+    "format": "carousel",
+    "assets": [
+      "s5o13-cover.jpg",
+      "s5-bedside-white-02.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A quieter kind of winter evening.",
+    "instagram_caption": "A quieter kind of winter evening.\n\nSoft blankets and warm light set the atmosphere. SootheSight S5 adds warmth, massage and Bluetooth audio to the moment you make for yourself.\n\nWhat does your ideal winter evening look like?\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A quieter kind of winter evening.\n\nSoft blankets and warm light set the atmosphere. SootheSight S5 adds warmth, massage and Bluetooth audio to the moment you make for yourself.\n\nBook, playlist or a quiet room—what would you choose?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "seasonal / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "emberglow02",
+    "family": "choice",
+    "hook": "A warmer corner of the room.",
+    "format": "carousel",
+    "assets": [
+      "emberglow02-cover.jpg",
+      "emberglow-editorial-3.jpg"
+    ],
+    "alt": "Solacen EmberGlow: Amber + red light · Adjustable brightness. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A warmer corner of the room.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhich detail fits your routine?\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+    "facebook_caption": "A warmer corner of the room.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nExplore the features and choose your setup.\nExplore EmberGlow: {url}",
+    "product_key": "emberglow",
+    "product_handle": "red-light-therapy-lamp-for-sleep-improvement",
+    "variant_id": "49572433658094",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 25,
+    "experiment": {
+      "hypothesis": "choice / emberglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o14",
+    "day_index": 26,
+    "family": "audio",
+    "hook": "Made for your own soundtrack.",
+    "format": "carousel",
+    "assets": [
+      "s5o14-cover.jpg",
+      "s5-black-audio-03.jpg",
+      "s5-black-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Made for your own soundtrack.",
+    "instagram_caption": "Made for your own soundtrack.\n\nBluetooth audio is one of S5's listed features. Choose your sound and follow the supplied operating instructions for your version.\n\nExplore the S5 details through our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Made for your own soundtrack.\n\nBluetooth audio is one of S5's listed features. Choose your sound and follow the supplied operating instructions for your version.\n\nSee the exact S5 features before you buy.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "audio / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "dawnrise02",
+    "family": "choice",
+    "hook": "Meet your bedside morning companion.",
+    "format": "carousel",
+    "assets": [
+      "dawnrise02-cover.jpg",
+      "dawnrise-morning-lifestyle.jpg",
+      "dawnrise-editorial-3.jpg"
+    ],
+    "alt": "Solacen DawnRise: Wake-up light · Clock · Touch controls. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Meet your bedside morning companion.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nWhich detail fits your routine?\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+    "facebook_caption": "Meet your bedside morning companion.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nExplore the features and choose your setup.\nExplore DawnRise: {url}",
+    "product_key": "dawnrise",
+    "product_handle": "solacen-dawnrise-sunrise-alarm-clock",
+    "variant_id": "49933785891054",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 27,
+    "experiment": {
+      "hypothesis": "choice / dawnrise can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o15",
+    "day_index": 28,
+    "family": "choice",
+    "hook": "Your colour. Your quiet moment.",
+    "format": "carousel",
+    "assets": [
+      "s5o15-cover.jpg",
+      "s5-colour-choice-04.jpg",
+      "s5-pink-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Your colour. Your quiet moment.",
+    "instagram_caption": "Your colour. Your quiet moment.\n\nPink feels soft, white keeps it simple, and black brings a classic finish. These are separate colour options, not a colour-changing feature.\n\nSwipe and choose the one that feels like you.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Your colour. Your quiet moment.\n\nPink feels soft, white keeps it simple, and black brings a classic finish. These are separate colour options, not a colour-changing feature.\n\nWhich S5 colour would you choose for yourself?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "choice / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "nocturne02",
+    "family": "choice",
+    "hook": "A sleep mask with its own soundtrack.",
+    "format": "carousel",
+    "assets": [
+      "nocturne02-cover.jpg",
+      "nocturne-editorial-3.jpg"
+    ],
+    "alt": "Solacen Nocturne: Bluetooth audio · 3D contour · Soft lining. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A sleep mask with its own soundtrack.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nWhich detail fits your routine?\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+    "facebook_caption": "A sleep mask with its own soundtrack.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nExplore the features and choose your setup.\nExplore Nocturne: {url}",
+    "product_key": "nocturne",
+    "product_handle": "3d-stereo-sleep-mask-with-bluetooth-headphones",
+    "variant_id": "49572439032046",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 29,
+    "experiment": {
+      "hypothesis": "choice / nocturne can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o16",
+    "day_index": 30,
+    "family": "gift",
+    "hook": "What comes with the S5 offer?",
+    "format": "carousel",
+    "assets": [
+      "s5o16-cover.jpg",
+      "s5-white-reference.jpg",
+      "s5-colour-choice-04.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: What comes with the S5 offer?",
+    "instagram_caption": "What comes with the S5 offer?\n\nThe current eligible-model offer adds one complimentary StillNight mask. Both products must be in the cart. Choose colours on the page; S3 does not qualify and other discounts cannot be combined.\n\nFind the pairing instructions through our profile link.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "What comes with the S5 offer?\n\nThe current eligible-model offer adds one complimentary StillNight mask. Both products must be in the cart. Choose colours on the page; S3 does not qualify and other discounts cannot be combined.\n\nThe product page shows the current price and gift selector together.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gift / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "lumanest02",
+    "family": "choice",
+    "hook": "Rain, waves or white noise tonight?",
+    "format": "carousel",
+    "assets": [
+      "lumanest02-cover.jpg",
+      "lumanest-editorial-3.jpg"
+    ],
+    "alt": "Solacen LumaNest: 10 soundscapes · Ambient light · Sleep timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Rain, waves or white noise tonight?\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nWhich detail fits your routine?\nExplore LumaNest: link in bio.\n\n#Solacen #EveningRoutine #LumaNest",
+    "facebook_caption": "Rain, waves or white noise tonight?\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nExplore the features and choose your setup.\nExplore LumaNest: {url}",
+    "product_key": "lumanest",
+    "product_handle": "colorful-light-sleep-sound-machine-with-white-noise",
+    "variant_id": "49572436312302",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 31,
+    "experiment": {
+      "hypothesis": "choice / lumanest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o17",
+    "day_index": 32,
+    "family": "after_work",
+    "hook": "Put a pause between work and evening.",
+    "format": "carousel",
+    "assets": [
+      "s5o17-cover.jpg",
+      "s5-sofa-pink-01.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Put a pause between work and evening.",
+    "instagram_caption": "Put a pause between work and evening.\n\nA comfortable sofa. A softer light. A moment away from screens. Introduce S5 as one part of an evening routine you enjoy.\n\nSave this reminder to make room for yourself.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Put a pause between work and evening.\n\nA comfortable sofa. A softer light. A moment away from screens. Introduce S5 as one part of an evening routine you enjoy.\n\nWhat is one small change that makes your evening feel less rushed?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "after_work / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "hushwave02",
+    "family": "choice",
+    "hook": "Your pillow has a new listening companion.",
+    "format": "reel",
+    "assets": [
+      "hushwave-ambient-reel.mp4"
+    ],
+    "alt": "Solacen HushWave: Under-pillow speaker · Bluetooth · Timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Your pillow has a new listening companion.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nWhich detail fits your routine?\nExplore HushWave: link in bio.\n\n#Solacen #EveningRoutine #HushWave",
+    "facebook_caption": "Your pillow has a new listening companion.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nExplore the features and choose your setup.\nExplore HushWave: {url}",
+    "product_key": "hushwave",
+    "product_handle": "bone-conduction-under-pillow-bluetooth-speaker",
+    "variant_id": "49572440244462",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 33,
+    "experiment": {
+      "hypothesis": "choice / hushwave can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "s5o18",
+    "day_index": 34,
+    "family": "features",
+    "hook": "The details, without the noise.",
+    "format": "carousel",
+    "assets": [
+      "s5o18-cover.jpg",
+      "s5-black-reference.jpg",
+      "s5-white-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: The details, without the noise.",
+    "instagram_caption": "The details, without the noise.\n\nS5's listed features are warmth, massage, Bluetooth audio and a digital display. S6, S7 and S3 are different models; compare the labelled images on the page.\n\nSwipe to see S5 in pink, white and black.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "The details, without the noise.\n\nS5's listed features are warmth, massage, Bluetooth audio and a digital display. S6, S7 and S3 are different models; compare the labelled images on the page.\n\nIf you are comparing models, use the labelled gallery and selector.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "features / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "quietweight02",
+    "family": "choice",
+    "hook": "Choose a pause without another screen.",
+    "format": "carousel",
+    "assets": [
+      "quietweight02-cover.jpg",
+      "quietweight-editorial-3.jpg"
+    ],
+    "alt": "Solacen QuietWeight: Weighted feel · Light-blocking · Soft fabric. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Choose a pause without another screen.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWhich detail fits your routine?\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+    "facebook_caption": "Choose a pause without another screen.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nExplore the features and choose your setup.\nExplore QuietWeight: {url}",
+    "product_key": "quietweight",
+    "product_handle": "gravity-eye-mask-for-sleep-and-relaxation",
+    "variant_id": "49572435296494",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 35,
+    "experiment": {
+      "hypothesis": "choice / quietweight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o19",
+    "day_index": 36,
+    "family": "ritual",
+    "hook": "Comfort worth making time for.",
+    "format": "carousel",
+    "assets": [
+      "s5o19-cover.jpg",
+      "s5-black-audio-03.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Comfort worth making time for.",
+    "instagram_caption": "Comfort worth making time for.\n\nYou do not need an elaborate routine to set aside a quieter moment. Start with a comfortable place, put the phone down after choosing your audio, and settle in.\n\nDiscover S5 through the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Comfort worth making time for.\n\nYou do not need an elaborate routine to set aside a quieter moment. Start with a comfortable place, put the phone down after choosing your audio, and settle in.\n\nExplore S5 as part of your own wind-down, without a promise of a medical result.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "ritual / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "easeknead02",
+    "family": "choice",
+    "hook": "Small tool. A more intentional break.",
+    "format": "carousel",
+    "assets": [
+      "easeknead02-cover.jpg",
+      "easeknead-editorial-3.jpg"
+    ],
+    "alt": "Solacen EaseKnead: Kneading massage · 4 intensities · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Small tool. A more intentional break.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nWhich detail fits your routine?\nExplore EaseKnead: link in bio.\n\n#Solacen #EveningRoutine #EaseKnead",
+    "facebook_caption": "Small tool. A more intentional break.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nExplore the features and choose your setup.\nExplore EaseKnead: {url}",
+    "product_key": "easeknead",
+    "product_handle": "electric-head-scalp-massager-red-light-body-massage-relaxation",
+    "variant_id": "49572431495406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 37,
+    "experiment": {
+      "hypothesis": "choice / easeknead can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o20",
+    "day_index": 38,
+    "family": "gifting",
+    "hook": "A thoughtful choice for a slower evening.",
+    "format": "carousel",
+    "assets": [
+      "s5o20-cover.jpg",
+      "s5-colour-choice-04.jpg",
+      "s5-bedside-white-02.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A thoughtful choice for a slower evening.",
+    "instagram_caption": "A thoughtful choice for a slower evening.\n\nSootheSight S5 is available in pink, white and black. For time-sensitive gifts, check the destination and delivery estimate before ordering; arrival by a holiday is not guaranteed.\n\nSee the colours and current offer through our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A thoughtful choice for a slower evening.\n\nSootheSight S5 is available in pink, white and black. For time-sensitive gifts, check the destination and delivery estimate before ordering; arrival by a holiday is not guaranteed.\n\nFind the current price, delivery information and eligible gift offer on the page.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gifting / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "stillnight02",
+    "family": "choice",
+    "hook": "Sometimes the simplest ritual is the one you keep.",
+    "format": "carousel",
+    "assets": [
+      "stillnight02-cover.jpg",
+      "stillnight-editorial-3.jpg"
+    ],
+    "alt": "Solacen StillNight: Contoured shape · Light-blocking · Compact. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Sometimes the simplest ritual is the one you keep.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nWhich detail fits your routine?\nExplore StillNight: link in bio.\n\n#Solacen #EveningRoutine #StillNight",
+    "facebook_caption": "Sometimes the simplest ritual is the one you keep.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nExplore the features and choose your setup.\nExplore StillNight: {url}",
+    "product_key": "stillnight",
+    "product_handle": "3d-light-blocking-sleep-eye-mask-for-hot-cold-therapy",
+    "variant_id": "49572456071406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 39,
+    "experiment": {
+      "hypothesis": "choice / stillnight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o21",
+    "day_index": 40,
+    "family": "bedside",
+    "hook": "Your bedside, a little more considered.",
+    "format": "carousel",
+    "assets": [
+      "s5o21-cover.jpg",
+      "s5-bedside-white-02.jpg",
+      "s5-white-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Your bedside, a little more considered.",
+    "instagram_caption": "Your bedside, a little more considered.\n\nKeep the things you enjoy in your evening close by. White S5 combines its understated finish with warmth, massage, Bluetooth audio and a digital display.\n\nSave this bedside inspiration.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Your bedside, a little more considered.\n\nKeep the things you enjoy in your evening close by. White S5 combines its understated finish with warmth, massage, Bluetooth audio and a digital display.\n\nDo you prefer a minimal bedside table or a few favourite comforts?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "bedside / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "warmease02",
+    "family": "choice",
+    "hook": "A wrap for the slower part of your day.",
+    "format": "carousel",
+    "assets": [
+      "warmease02-cover.jpg",
+      "warmease-editorial-3.jpg"
+    ],
+    "alt": "Solacen WarmEase: Adjustable warmth · Vibration · Cordless. Exact store product photograph in a branded layout.",
+    "instagram_caption": "A wrap for the slower part of your day.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nWhich detail fits your routine?\nExplore WarmEase: link in bio.\n\n#Solacen #EveningRoutine #WarmEase",
+    "facebook_caption": "A wrap for the slower part of your day.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nExplore the features and choose your setup.\nExplore WarmEase: {url}",
+    "product_key": "warmease",
+    "product_handle": "heated-massage-shoulder-support",
+    "variant_id": "49579082449134",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 41,
+    "experiment": {
+      "hypothesis": "choice / warmease can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o22",
+    "day_index": 42,
+    "family": "gift",
+    "hook": "One pairing. Choose both colours.",
+    "format": "carousel",
+    "assets": [
+      "s5o22-cover.jpg",
+      "s5-colour-choice-04.jpg",
+      "s5-pink-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: One pairing. Choose both colours.",
+    "instagram_caption": "One pairing. Choose both colours.\n\nChoose your S5 colour and your complimentary StillNight mask colour separately on the product page. Use Add massager + free mask. One eligible gift per order; no combined discounts.\n\nOpen the SootheSight pairing through our profile link.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "One pairing. Choose both colours.\n\nChoose your S5 colour and your complimentary StillNight mask colour separately on the product page. Use Add massager + free mask. One eligible gift per order; no combined discounts.\n\nThe gift is a separate mask line in your cart, discounted when the offer conditions are met.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "gift / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "lumarest02",
+    "family": "choice",
+    "hook": "Face mask or face-and-neck set?",
+    "format": "carousel",
+    "assets": [
+      "lumarest02-cover.jpg",
+      "lumarest-editorial-3.jpg"
+    ],
+    "alt": "Solacen LumaRest: Silicone LED panels · Separate controller. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Face mask or face-and-neck set?\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nWhich detail fits your routine?\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
+    "facebook_caption": "Face mask or face-and-neck set?\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nExplore the features and choose your setup.\nExplore LumaRest: {url}",
+    "product_key": "lumarest",
+    "product_handle": "photon-therapy-led-facial-mask-with-neck-care",
+    "variant_id": "49599480234222",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 43,
+    "experiment": {
+      "hypothesis": "choice / lumarest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "s5o23",
+    "day_index": 44,
+    "family": "after_work",
+    "hook": "A warming pause after a screen-heavy day.",
+    "format": "carousel",
+    "assets": [
+      "s5o23-cover.jpg",
+      "s5-sofa-pink-01.jpg",
+      "s5-pink-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: A warming pause after a screen-heavy day.",
+    "instagram_caption": "A warming pause after a screen-heavy day.\n\nSootheSight S5 is an eye massager with warmth, massage and Bluetooth audio. Make it a moment away from the screen, following the supplied instructions.\n\nExplore the product rather than scrolling past your next break.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "A warming pause after a screen-heavy day.\n\nSootheSight S5 is an eye massager with warmth, massage and Bluetooth audio. Make it a moment away from the screen, following the supplied instructions.\n\nSee S5's features and decide whether it fits your routine.\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "after_work / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "pageglow03",
+    "family": "features",
+    "hook": "PageGlow: the details that matter.",
+    "format": "reel",
+    "assets": [
+      "pageglow-ambient-reel.mp4"
+    ],
+    "alt": "Solacen PageGlow: Clip-on · Flexible neck · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "PageGlow: the details that matter.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nSee the selected version through our profile.\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+    "facebook_caption": "PageGlow: the details that matter.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nSee the product details before choosing your version.\nExplore PageGlow: {url}",
+    "product_key": "pageglow",
+    "product_handle": "solacen-pageglow-rechargeable-reading-light",
+    "variant_id": "49933805027566",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 45,
+    "experiment": {
+      "hypothesis": "features / pageglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "s5o24",
+    "day_index": 46,
+    "family": "features",
+    "hook": "Which detail would you notice first?",
+    "format": "carousel",
+    "assets": [
+      "s5o24-cover.jpg",
+      "s5-pink-reference.jpg",
+      "s5-white-reference.jpg"
+    ],
+    "alt": "Solacen SootheSight S5 eye massager: Which detail would you notice first?",
+    "instagram_caption": "Which detail would you notice first?\n\nThe colour, the digital display, or the Bluetooth audio? S5 brings these details together with warmth and massage.\n\nSwipe for the S5 colour options.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
+    "facebook_caption": "Which detail would you notice first?\n\nThe colour, the digital display, or the Bluetooth audio? S5 brings these details together with warmth and massage.\n\nWhich listed feature would matter most to you?\n\nExplore S5: {url}",
+    "ai_assisted": true,
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "claim_source": "product.json; live page checked 22 November 2026",
+    "product_key": "soothesight",
+    "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+    "variant_id": "49549901398254",
+    "disclosure_required": false,
+    "experiment": {
+      "hypothesis": "features / soothesight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "emberglow03",
+    "family": "features",
+    "hook": "EmberGlow: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "emberglow03-cover.jpg",
+      "emberglow-editorial-1.jpg"
+    ],
+    "alt": "Solacen EmberGlow: Amber + red light · Adjustable brightness. Exact store product photograph in a branded layout.",
+    "instagram_caption": "EmberGlow: the details that matter.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSee the selected version through our profile.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+    "facebook_caption": "EmberGlow: the details that matter.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSee the product details before choosing your version.\nExplore EmberGlow: {url}",
+    "product_key": "emberglow",
+    "product_handle": "red-light-therapy-lamp-for-sleep-improvement",
+    "variant_id": "49572433658094",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 47,
+    "experiment": {
+      "hypothesis": "features / emberglow can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "dawnrise03",
+    "family": "features",
+    "hook": "DawnRise: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "dawnrise03-cover.jpg",
+      "dawnrise-morning-lifestyle.jpg",
+      "dawnrise-editorial-1.jpg"
+    ],
+    "alt": "Solacen DawnRise: Wake-up light · Clock · Touch controls. Exact store product photograph in a branded layout.",
+    "instagram_caption": "DawnRise: the details that matter.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSee the selected version through our profile.\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+    "facebook_caption": "DawnRise: the details that matter.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSee the product details before choosing your version.\nExplore DawnRise: {url}",
+    "product_key": "dawnrise",
+    "product_handle": "solacen-dawnrise-sunrise-alarm-clock",
+    "variant_id": "49933785891054",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 48,
+    "experiment": {
+      "hypothesis": "features / dawnrise can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "nocturne03",
+    "family": "features",
+    "hook": "Nocturne: the details that matter.",
+    "format": "reel",
+    "assets": [
+      "nocturne-ambient-reel.mp4"
+    ],
+    "alt": "Solacen Nocturne: Bluetooth audio · 3D contour · Soft lining. Exact store product photograph in a branded layout.",
+    "instagram_caption": "Nocturne: the details that matter.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSee the selected version through our profile.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+    "facebook_caption": "Nocturne: the details that matter.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSee the product details before choosing your version.\nExplore Nocturne: {url}",
+    "product_key": "nocturne",
+    "product_handle": "3d-stereo-sleep-mask-with-bluetooth-headphones",
+    "variant_id": "49572439032046",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 49,
+    "experiment": {
+      "hypothesis": "features / nocturne can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    },
+    "music": "Original Solacen ambient composition; generated deterministically, no sampled or licensed third-party song",
+    "music_is_product_sound_demo": false
+  },
+  {
+    "id": "lumanest03",
+    "family": "features",
+    "hook": "LumaNest: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "lumanest03-cover.jpg",
+      "lumanest-editorial-1.jpg"
+    ],
+    "alt": "Solacen LumaNest: 10 soundscapes · Ambient light · Sleep timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "LumaNest: the details that matter.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nSee the selected version through our profile.\nExplore LumaNest: link in bio.\n\n#Solacen #EveningRoutine #LumaNest",
+    "facebook_caption": "LumaNest: the details that matter.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nSee the product details before choosing your version.\nExplore LumaNest: {url}",
+    "product_key": "lumanest",
+    "product_handle": "colorful-light-sleep-sound-machine-with-white-noise",
+    "variant_id": "49572436312302",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 50,
+    "experiment": {
+      "hypothesis": "features / lumanest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "hushwave03",
+    "family": "features",
+    "hook": "HushWave: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "hushwave03-cover.jpg",
+      "hushwave-editorial-1.jpg"
+    ],
+    "alt": "Solacen HushWave: Under-pillow speaker · Bluetooth · Timer. Exact store product photograph in a branded layout.",
+    "instagram_caption": "HushWave: the details that matter.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nSee the selected version through our profile.\nExplore HushWave: link in bio.\n\n#Solacen #EveningRoutine #HushWave",
+    "facebook_caption": "HushWave: the details that matter.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nSee the product details before choosing your version.\nExplore HushWave: {url}",
+    "product_key": "hushwave",
+    "product_handle": "bone-conduction-under-pillow-bluetooth-speaker",
+    "variant_id": "49572440244462",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 51,
+    "experiment": {
+      "hypothesis": "features / hushwave can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "quietweight03",
+    "family": "features",
+    "hook": "QuietWeight: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "quietweight03-cover.jpg",
+      "quietweight-editorial-1.jpg"
+    ],
+    "alt": "Solacen QuietWeight: Weighted feel · Light-blocking · Soft fabric. Exact store product photograph in a branded layout.",
+    "instagram_caption": "QuietWeight: the details that matter.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the selected version through our profile.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+    "facebook_caption": "QuietWeight: the details that matter.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the product details before choosing your version.\nExplore QuietWeight: {url}",
+    "product_key": "quietweight",
+    "product_handle": "gravity-eye-mask-for-sleep-and-relaxation",
+    "variant_id": "49572435296494",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 52,
+    "experiment": {
+      "hypothesis": "features / quietweight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "easeknead03",
+    "family": "features",
+    "hook": "EaseKnead: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "easeknead03-cover.jpg",
+      "easeknead-editorial-1.jpg"
+    ],
+    "alt": "Solacen EaseKnead: Kneading massage · 4 intensities · Rechargeable. Exact store product photograph in a branded layout.",
+    "instagram_caption": "EaseKnead: the details that matter.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSee the selected version through our profile.\nExplore EaseKnead: link in bio.\n\n#Solacen #EveningRoutine #EaseKnead",
+    "facebook_caption": "EaseKnead: the details that matter.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSee the product details before choosing your version.\nExplore EaseKnead: {url}",
+    "product_key": "easeknead",
+    "product_handle": "electric-head-scalp-massager-red-light-body-massage-relaxation",
+    "variant_id": "49572431495406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 53,
+    "experiment": {
+      "hypothesis": "features / easeknead can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "stillnight03",
+    "family": "features",
+    "hook": "StillNight: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "stillnight03-cover.jpg",
+      "stillnight-editorial-1.jpg"
+    ],
+    "alt": "Solacen StillNight: Contoured shape · Light-blocking · Compact. Exact store product photograph in a branded layout.",
+    "instagram_caption": "StillNight: the details that matter.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nSee the selected version through our profile.\nExplore StillNight: link in bio.\n\n#Solacen #EveningRoutine #StillNight",
+    "facebook_caption": "StillNight: the details that matter.\n\nStillNight is a separate contoured sleep mask for a darker rest space. Colours and patterns depend on the selected style. Eligible SootheSight S5, S6 and S7 orders can include one complimentary StillNight when both products are added through the pairing selector. S3 excluded; cannot combine discounts.\n\nSee the product details before choosing your version.\nExplore StillNight: {url}",
+    "product_key": "stillnight",
+    "product_handle": "3d-light-blocking-sleep-eye-mask-for-hot-cold-therapy",
+    "variant_id": "49572456071406",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 54,
+    "experiment": {
+      "hypothesis": "features / stillnight can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "warmease03",
+    "family": "features",
+    "hook": "WarmEase: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "warmease03-cover.jpg",
+      "warmease-editorial-1.jpg"
+    ],
+    "alt": "Solacen WarmEase: Adjustable warmth · Vibration · Cordless. Exact store product photograph in a branded layout.",
+    "instagram_caption": "WarmEase: the details that matter.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nSee the selected version through our profile.\nExplore WarmEase: link in bio.\n\n#Solacen #EveningRoutine #WarmEase",
+    "facebook_caption": "WarmEase: the details that matter.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nSee the product details before choosing your version.\nExplore WarmEase: {url}",
+    "product_key": "warmease",
+    "product_handle": "heated-massage-shoulder-support",
+    "variant_id": "49579082449134",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 55,
+    "experiment": {
+      "hypothesis": "features / warmease can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "lumarest03",
+    "family": "features",
+    "hook": "LumaRest: the details that matter.",
+    "format": "carousel",
+    "assets": [
+      "lumarest03-cover.jpg",
+      "lumarest-editorial-1.jpg"
+    ],
+    "alt": "Solacen LumaRest: Silicone LED panels · Separate controller. Exact store product photograph in a branded layout.",
+    "instagram_caption": "LumaRest: the details that matter.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSee the selected version through our profile.\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
+    "facebook_caption": "LumaRest: the details that matter.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSee the product details before choosing your version.\nExplore LumaRest: {url}",
+    "product_key": "lumarest",
+    "product_handle": "photon-therapy-led-facial-mask-with-neck-care",
+    "variant_id": "49599480234222",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json: live Shopify description, 22 November 2026",
+    "day_index": 56,
+    "experiment": {
+      "hypothesis": "features / lumarest can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "compare01",
+    "family": "comparison",
+    "hook": "Reading light or room light?",
+    "format": "carousel",
+    "assets": [
+      "pageglow-editorial-1.jpg",
+      "emberglow-editorial-1.jpg"
+    ],
+    "alt": "Reading light or room light?",
+    "instagram_caption": "Reading light or room light?\n\nPageGlow directs light toward a book. EmberGlow adds ambient light to a corner of the room. Different roles, one considered evening.\n\nSave the comparison. Explore the collection: link in bio.\n\n#Solacen #EveningRoutine",
+    "facebook_caption": "Reading light or room light?\n\nPageGlow directs light toward a book. EmberGlow adds ambient light to a corner of the room. Different roles, one considered evening.\n\nCompare both products: {url}",
+    "collection_link": true,
+    "product_key": "comparison",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json",
+    "day_index": 57,
+    "experiment": {
+      "hypothesis": "comparison / comparison can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "compare02",
+    "family": "comparison",
+    "hook": "Two ways to bring audio to bedtime.",
+    "format": "carousel",
+    "assets": [
+      "nocturne-editorial-1.jpg",
+      "hushwave-editorial-1.jpg"
+    ],
+    "alt": "Two ways to bring audio to bedtime.",
+    "instagram_caption": "Two ways to bring audio to bedtime.\n\nNocturne combines a sleep mask with speakers. HushWave sits under a pillow. Compare the format you would actually enjoy using.\n\nSave the comparison. Explore the collection: link in bio.\n\n#Solacen #EveningRoutine",
+    "facebook_caption": "Two ways to bring audio to bedtime.\n\nNocturne combines a sleep mask with speakers. HushWave sits under a pillow. Compare the format you would actually enjoy using.\n\nCompare both products: {url}",
+    "collection_link": true,
+    "product_key": "comparison",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json",
+    "day_index": 58,
+    "experiment": {
+      "hypothesis": "comparison / comparison can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  },
+  {
+    "id": "compare03",
+    "family": "comparison",
+    "hook": "Find your kind of quiet.",
+    "format": "carousel",
+    "assets": [
+      "quietweight-editorial-1.jpg",
+      "stillnight-editorial-1.jpg"
+    ],
+    "alt": "Find your kind of quiet.",
+    "instagram_caption": "Find your kind of quiet.\n\nQuietWeight offers a gently weighted feel. StillNight is a separate contoured sleep mask. Compare the materials, shape and selected style on each product page.\n\nSave the comparison. Explore the collection: link in bio.\n\n#Solacen #EveningRoutine",
+    "facebook_caption": "Find your kind of quiet.\n\nQuietWeight offers a gently weighted feel. StillNight is a separate contoured sleep mask. Compare the materials, shape and selected style on each product page.\n\nCompare both products: {url}",
+    "collection_link": true,
+    "product_key": "comparison",
+    "review_state": "ready",
+    "generation_cost_eur": 0,
+    "ai_assisted": true,
+    "disclosure_required": false,
+    "claim_source": "catalogue.json",
+    "day_index": 59,
+    "experiment": {
+      "hypothesis": "comparison / comparison can drive qualified product interest",
+      "primary_outcome": "Shopify sessions, carts, orders and contribution; views are diagnostic",
+      "platforms_evaluated_separately": true
+    }
+  }
+]

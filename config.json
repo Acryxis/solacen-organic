@@ -8,6 +8,13 @@
   "asset_base_url": "https://raw.githubusercontent.com/Acryxis/solacen-organic/main/assets",
   "first_day": "2026-11-23",
   "target_timezone": "America/New_York",
+  "slot_order": ["morning", "afternoon", "evening", "night"],
+  "daily_slots": {
+    "morning": {"instagram":"08:15", "facebook":"08:35"},
+    "afternoon": {"instagram":"14:15", "facebook":"14:35"},
+    "evening": {"instagram":"18:15", "facebook":"18:35"},
+    "night": {"instagram":"21:15", "facebook":"21:35"}
+  },
   "posting_times": {
     "instagram": "14:15",
     "facebook": "14:35"

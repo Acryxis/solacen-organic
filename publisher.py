@@ -100,7 +100,9 @@ def tracked_url(config,platform,item_id,row=None):
     return config['store_url']+path+'?'+urllib.parse.urlencode(args)
 
 def make_input(config,row,platform,day,*,draft=False):
-    hour,minute=map(int,config['posting_times'][platform].split(':'))
+    slot=row.get('time_slot')
+    chosen=config.get('daily_slots',{}).get(slot,{}).get(platform,config['posting_times'][platform])
+    hour,minute=map(int,chosen.split(':'))
     due=datetime(day.year,day.month,day.day,hour,minute,tzinfo=ZoneInfo(config['target_timezone'])).astimezone(timezone.utc)
     text=row[platform+'_caption'].replace('{url}',tracked_url(config,platform,row['id'],row))
     assets=[]
@@ -153,12 +155,16 @@ def plan(config,queue,now):
     first=date.fromisoformat(config['first_day'])
     today=now.astimezone(ZoneInfo(config['target_timezone'])).date()
     end=today+timedelta(days=config['lookahead_days'])
-    for day_offset in range(max(0,(today-first).days),(end-first).days+1):
-        cycle,index=divmod(day_offset,len(queue))
+    slots=config.get('slot_order',['afternoon'])
+    for position in range(max(0,(today-first).days)*len(slots),((end-first).days+1)*len(slots)):
+        day_offset,slot_index=divmod(position,len(slots))
+        cycle,index=divmod(position,len(queue))
         maximum_cycle=config.get('maximum_cycle',1)
         if (maximum_cycle>0 and cycle>=maximum_cycle) or (cycle and not config.get('evergreen_rotation')):
             break
         row=dict(queue[index])
+        if len(slots)>1 and row.get('time_slot')!=slots[slot_index]:
+            raise ValueError('Queue slot order does not match configured cadence.')
         if cycle:
             # An explicit 30-day cooldown; no identical caption reposts. No new model cost.
             row['id']+=f'_c{cycle+1}'
@@ -272,7 +278,7 @@ def run(config,queue,api,now,*,write=False):
     state['last_run_utc']=now.isoformat()
     save(ROOT/'state'/'publishing.json',state)
     save(ROOT/'state'/'health.json',{'last_run_utc':now.isoformat(),'alerts':state['alerts'],
-         'posts_known':len(state['posts']),'remaining_original_concepts':min(len(queue),max(0,len(queue)-(now.date()-date.fromisoformat(config['first_day'])).days))})
+         'posts_known':len(state['posts']),'remaining_original_concepts':min(len(queue),max(0,len(queue)-max(0,(now.astimezone(ZoneInfo(config['target_timezone'])).date()-date.fromisoformat(config['first_day'])).days)*len(config.get('slot_order',['afternoon']))))})
     # Some platform metrics default missing values to zero. Keep availability caveat.
     print(json.dumps({'posts_known':len(state['posts']),'alerts':state['alerts']},indent=2))
     return state
