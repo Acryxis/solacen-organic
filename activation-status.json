@@ -18,7 +18,7 @@
     "Verify Shopify organic sessions and orders as real traffic arrives",
     "Instagram profile link uses existing store link; post-level attribution is limited"
   ],
-  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45059851321",
+  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45062404365",
   "instagram_scheduled": 7,
   "facebook_scheduled": 7,
   "weekly_review_automation": "solacen-weekly-organic-growth-review",
