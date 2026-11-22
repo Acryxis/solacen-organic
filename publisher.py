@@ -105,6 +105,8 @@ def make_input(config,row,platform,day,*,draft=False):
           'needsApproval':False,'saveToDraft':draft,'aiAssisted':True}
     if platform=='instagram':
         data['metadata']={'instagram':{'type':'post','shouldShareToFeed':True,'isAiGenerated':True}}
+    else:
+        data['metadata']={'facebook':{'type':'post'}}
     return data
 
 def validate(config,queue,*,live=False):
@@ -246,7 +248,7 @@ def run(config,queue,api,now,*,write=False):
     state['last_run_utc']=now.isoformat()
     save(ROOT/'state'/'publishing.json',state)
     save(ROOT/'state'/'health.json',{'last_run_utc':now.isoformat(),'alerts':state['alerts'],
-         'posts_known':len(state['posts']),'remaining_original_concepts':max(0,len(queue)-(now.date()-date.fromisoformat(config['first_day'])).days)})
+         'posts_known':len(state['posts']),'remaining_original_concepts':min(len(queue),max(0,len(queue)-(now.date()-date.fromisoformat(config['first_day'])).days))})
     # Some platform metrics default missing values to zero. Keep availability caveat.
     print(json.dumps({'posts_known':len(state['posts']),'alerts':state['alerts']},indent=2))
     return state

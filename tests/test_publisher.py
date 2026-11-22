@@ -64,6 +64,7 @@ class SchedulerTests(unittest.TestCase):
         self.assertEqual(data['dueAt'],'2026-11-23T19:35:00Z')
         self.assertIn('utm_source=facebook',data['text'])
         self.assertEqual(data['schedulingType'],'automatic')
+        self.assertEqual(data['metadata']['facebook']['type'],'post')
     def test_disabled_publishing_sends_nothing(self):
         self.config['enabled']=False
         api=FakeBuffer()
