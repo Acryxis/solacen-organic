@@ -5,6 +5,13 @@ Some unreported platform metrics may appear as zero; availability and source fre
 
 | Platform / family | Sent | Pending or other | Posts with metrics | Available count metrics |
 |---|---:|---:|---:|---|
+| instagram / after_work | 0 | 1 | 0 | Not available |
+| instagram / audio | 0 | 1 | 0 | Not available |
+| instagram / bedside | 0 | 1 | 0 | Not available |
+| instagram / choice | 0 | 1 | 0 | Not available |
+| instagram / features | 0 | 1 | 0 | Not available |
+| instagram / gift | 0 | 1 | 0 | Not available |
+| instagram / gifting | 0 | 1 | 0 | Not available |
 
 ## Next decision
 
