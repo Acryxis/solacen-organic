@@ -7,20 +7,16 @@ Some unreported platform metrics may appear as zero; availability and source fre
 |---|---:|---:|---:|---|
 | facebook / after_work | 0 | 1 | 0 | Not available |
 | facebook / audio | 0 | 1 | 0 | Not available |
-| facebook / bedside | 0 | 1 | 0 | Not available |
 | facebook / choice | 0 | 1 | 0 | Not available |
 | facebook / features | 0 | 1 | 0 | Not available |
-| facebook / gift | 0 | 1 | 0 | Not available |
-| facebook / gifting | 0 | 1 | 0 | Not available |
 | facebook / introduction | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
+| facebook / ritual | 0 | 3 | 0 | Not available |
 | instagram / after_work | 0 | 1 | 0 | Not available |
 | instagram / audio | 0 | 1 | 0 | Not available |
-| instagram / bedside | 0 | 1 | 0 | Not available |
 | instagram / choice | 0 | 1 | 0 | Not available |
 | instagram / features | 0 | 1 | 0 | Not available |
-| instagram / gift | 0 | 1 | 0 | Not available |
-| instagram / gifting | 0 | 1 | 0 | Not available |
 | instagram / introduction | 1 | 0 | 0 | Not available |
+| instagram / ritual | 0 | 3 | 0 | Not available |
 
 ## Next decision
 
