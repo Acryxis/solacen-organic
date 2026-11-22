@@ -7,7 +7,7 @@
   "instagram_connected_api_verified": true,
   "facebook_connected_api_verified": true,
   "buffer_api_read_test": "passed",
-  "local_scheduler_tests": "9 passed",
+  "local_scheduler_tests": "10 passed",
   "public_asset_hosting_verified": true,
   "cloud_workflow_deployed": true,
   "live_publish_verified": true,
@@ -18,7 +18,7 @@
     "Verify Shopify organic sessions and orders as real traffic arrives",
     "Instagram profile link uses existing store link; post-level attribution is limited"
   ],
-  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45058999595",
+  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45059851321",
   "instagram_scheduled": 7,
   "facebook_scheduled": 7,
   "weekly_review_automation": "solacen-weekly-organic-growth-review",

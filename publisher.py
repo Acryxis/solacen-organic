@@ -230,6 +230,10 @@ def run(config,queue,api,now,*,write=False):
         key=post_identity(p['channelId'],p['text'],p.get('dueAt'))
         if key in state['posts']:
             state['posts'][key].update(p)
+    for post in state['posts'].values():
+        due=parse_time(post.get('dueAt'))
+        if post.get('status') in ('scheduled','sending') and due and now-due>timedelta(hours=3):
+            state['alerts'].append(f"{post.get('platform')} {post.get('queue_id')}: overdue; inspect the existing post, do not create a duplicate.")
     # Retry only a definitively failed, transient post, using its EXISTING Buffer ID.
     # Authentication, permissions, invalid media and unknown outcomes need attention.
     for key,post in list(state['posts'].items()):

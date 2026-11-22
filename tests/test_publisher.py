@@ -91,5 +91,13 @@ class SchedulerTests(unittest.TestCase):
     def test_evergreen_can_continue_after_ninety_days(self):
         self.config['maximum_cycle']=0
         self.assertTrue(list(p.plan(self.config,self.rows,p.datetime(2027,3,1,10,tzinfo=p.timezone.utc))))
+    def test_overdue_post_alert_does_not_duplicate_it(self):
+        self.config['maximum_cycle']=1
+        api=FakeBuffer();self.execute(api)
+        for x in api.created:x['status']='scheduled'
+        self.now=datetime(2026,11,27,20,tzinfo=timezone.utc)
+        state=self.execute(api)
+        self.assertTrue(any('overdue' in x for x in state['alerts']))
+        self.assertEqual(len(api.created),2)
 
 if __name__=='__main__': unittest.main()

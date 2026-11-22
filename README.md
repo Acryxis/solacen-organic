@@ -10,7 +10,7 @@ Expected incremental recurring cost: **EUR0** for the selected Buffer Free / pub
 
 `python publisher.py --discover` checks Buffer organization/channels without publishing.
 
-`python -m unittest discover -s tests -v` runs nine tests for duplicate prevention, partial failures, unknown write outcomes, queue limits, timezone/UTMs, the disabled guard, safe retries and ongoing evergreen coverage.
+`python -m unittest discover -s tests -v` runs ten tests for duplicate prevention, partial failures, unknown write outcomes, queue limits, timezone/UTMs, the disabled guard, safe retries, overdue detection and ongoing evergreen coverage.
 
 `python publisher.py --write` uses the exact configured accounts only when enabled=true. Reads BUFFER_API_KEY from environment, falling back to ignored local .buffer-key. Never print the key. See operations for stopping both queue refill and already scheduled posts.
 
