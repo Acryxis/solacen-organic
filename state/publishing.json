@@ -545,14 +545,6 @@
       "error": null
     }
   },
-  "alerts": [
-    "instagram s5o01: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o02: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o03: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o04: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o05: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o06: prior write needs reconciliation; no duplicate sent.",
-    "instagram s5o07: prior write needs reconciliation; no duplicate sent."
-  ],
-  "last_run_utc": "2026-11-22T19:05:47.993514+00:00"
+  "alerts": [],
+  "last_run_utc": "2026-11-22T19:08:09.880199+00:00"
 }

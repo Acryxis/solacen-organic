@@ -5,13 +5,13 @@ Some unreported platform metrics may appear as zero; availability and source fre
 
 | Platform / family | Sent | Pending or other | Posts with metrics | Available count metrics |
 |---|---:|---:|---:|---|
-| facebook / after_work | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / audio | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / bedside | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / choice | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / features | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / gift | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / gifting | 0 | 1 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
+| facebook / after_work | 0 | 1 | 0 | Not available |
+| facebook / audio | 0 | 1 | 0 | Not available |
+| facebook / bedside | 0 | 1 | 0 | Not available |
+| facebook / choice | 0 | 1 | 0 | Not available |
+| facebook / features | 0 | 1 | 0 | Not available |
+| facebook / gift | 0 | 1 | 0 | Not available |
+| facebook / gifting | 0 | 1 | 0 | Not available |
 | instagram / after_work | 0 | 1 | 0 | Not available |
 | instagram / audio | 0 | 1 | 0 | Not available |
 | instagram / bedside | 0 | 1 | 0 | Not available |
