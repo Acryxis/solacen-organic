@@ -1,0 +1,254 @@
+[
+  {
+    "id": "gid://shopify/Product/9506166309102",
+    "title": "Solacen SootheSight Heated Eye Massager",
+    "handle": "bluetooth-eye-massager-with-heat-therapy",
+    "description": "A warming pause, made your ownMake a little room to step away from your screen. SootheSight offers warming eye comfort, with different massage and audio options across the range. Choose your model from the labelled images and selector before adding it to your cart.Choose the experience that suits you S3 Basic: three heat settings and an LCD display. S3 Upgraded Massage: three heat settings, three vibration settings and an LCD display. S3 LuxMusic: three heat settings, three vibration settings, Bluetooth music and an LCD display. S5: warmth, massage and Bluetooth audio with a digital display. Available in pink, white and black. S6 and S7: separate model designs. Compare their labelled gallery images for the controls and features of your chosen version. Features and physical details vary by model. Bluetooth and vibration are not included on every version.A little extra comfort, on usBuy a SootheSight S5, S6 or S7 eye massager and receive one Stillnight 3D Sleep Mask free. Use Choose your free sleep mask to select your massager and mask colour, then tap Add massager + free mask. Choose Pink, Gray, White or Black. The mask discount applies automatically when both items are in your cart.One free mask per order with S5, S6 or S7. S3 models are excluded. Both products must be in your cart. Cannot be combined with other discounts. Free standard shipping to supported destinations.Make it part of your wind-downFollow the instructions supplied with your chosen model for charging, fit and operation. Settle somewhere comfortable, adjust the settings to your preference, and take a quiet pause.",
+    "content_key": "soothesight",
+    "reference_file": "sources\\soothesight.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-soothesight-1-v2.png?v=1791016230"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "69.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511708164334",
+    "title": "Solacen EaseKnead Scalp & Body Massager",
+    "handle": "electric-head-scalp-massager-red-light-body-massage-relaxation",
+    "description": "A quiet reset, from scalp to shoulders The Solacen EaseKnead Massager brings a small, considered moment of care to the end of the day. Its kneading action, adjustable intensity, and rechargeable handheld design make it easy to use across the scalp, neck, shoulders, back, arms, or legs whenever you want to slow down. Designed for everyday unwinding Kneading massage action: Creates a rhythmic, hands-on sensation for a more intentional pause. Four intensity levels: Start gently and choose the setting that feels right for your routine. Scalp and body versatility: Use it on the scalp, neck, shoulders, back, arms, or legs. Red light feature: Adds a warm visual element to the massage experience. Low-noise operation: Designed to keep your wind-down time quiet. Rechargeable and handheld: No cord to manage while you move from the sofa to the bedside. Your five-minute reset Pick it up after a screen-heavy day, before bed, or whenever your body is asking for a pause. Keep it within reach and make a little room for a slower, more grounded evening. Details Massage principle: kneading Intensity: 4 adjustable levels Light feature: red light Control: buttons Power: rechargeable Operation: low-noise design Color options: Gem Blue, Pearl White, Plum Red, Emerald Green, or Sakura Pink In the box Solacen EaseKnead scalp and body massager USB charging cable User manual For personal comfort and relaxation. Use according to the included instructions and stop if the experience feels uncomfortable.",
+    "content_key": "easeknead",
+    "reference_file": "sources\\easeknead.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-easeknead-1-v2.png?v=1791016280"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "29.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511709704430",
+    "title": "Solacen EmberGlow Red Light Bedside Lamp",
+    "handle": "red-light-therapy-lamp-for-sleep-improvement",
+    "description": "Warm light for the slower part of the day The Solacen EmberGlow is a compact bedside lamp designed to make evenings feel less harsh. Its amber and red light combinations create a warmer atmosphere for reading, meditation, nursing, or settling into your night routine, while touch control keeps the experience simple. A calmer kind of bedside light Amber and red light: Choose from warm light combinations designed for a softer evening atmosphere. Stepless dimming: Touch control lets you adjust the brightness gradually instead of reaching for a bright switch. Rechargeable design: USB charging means you can place it where the room feels right, without being tied to a wall socket. Minimal footprint: The compact cylindrical form sits neatly on a nightstand, shelf, or reading corner. Choose your setup: Available variations include white or woodgrain bases, touch or remote control, and clock versions. Set the room down gently Turn EmberGlow on as the room gets darker, lower the brightness to suit the moment, and let the light become a familiar cue that the day is winding down. Details Light wavelength: 670nm red light Light colors: amber and red combinations Control: touch dimming, with remote options on selected variations Power: 5W Voltage: 5V Charging: USB rechargeable Lampshade material: PP Available variations: white base, woodgrain base, clock, and remote options In the box Solacen EmberGlow bedside lamp USB charging cable User manual",
+    "content_key": "emberglow",
+    "reference_file": "sources\\emberglow.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-emberglow-1-v2.png?v=1791016327"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "37.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511710294254",
+    "title": "Solacen QuietWeight Weighted Eye Mask",
+    "handle": "gravity-eye-mask-for-sleep-and-relaxation",
+    "description": "A little more stillness for tired eyes The Solacen QuietWeight Eye Mask is designed for the moment you want to soften the day. Its gently weighted feel, light-blocking shape, and soft fabric create a more settled pause, whether you are preparing for sleep, taking a quiet break, or traveling. Comfort you can feel Gentle weighted design: A soothing sense of pressure helps turn your attention away from a busy day. Light-blocking coverage: Helps create a darker, calmer space for rest. Soft natural-feeling blend: Polyester and bamboo fiber create a smooth, skin-friendly touch. Easy to keep close: A compact sleep essential for the bedside table, sofa, office, or travel bag. A slower pause, whenever you need it Put on QuietWeight, dim the room, and give yourself a few undisturbed minutes. It is a simple ritual for transitioning into sleep or stepping out of screen time. Details Features: light blocking and gentle weighted pressure Materials: polyester and bamboo fiber Color options: black, grey, pink, or blue In the box Solacen QuietWeight weighted eye mask Follow the included care instructions. Do not heat or chill the mask unless the manufacturerâ€™s instructions explicitly allow it.",
+    "content_key": "quietweight",
+    "reference_file": "sources\\quietweight.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-quietweight-1-v2.png?v=1791622578"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "27.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511710621934",
+    "title": "Solacen LumaNest Sleep Sound Machine",
+    "handle": "colorful-light-sleep-sound-machine-with-white-noise",
+    "description": "A softer atmosphere for the end of the day The Solacen LumaNest brings sound and gentle color into one considered bedside companion. Choose a familiar soundscape, set the light to suit the mood, and let your room shift from bright and busy to calm and settled. Build your own wind-down atmosphere Ten built-in soundscapes: Move between ocean waves, rain, white noise, flowing water, cricket sounds, birdsong, and four lullabies. Colorful ambient light: Add a soft glow to your bedside routine without relying on a harsh overhead light. Three sleep timers: Choose a 15, 30, or 60-minute auto shut-off and let the machine ease into silence. Long-lasting battery: The built-in 2000mAh lithium battery supports up to 20 hours of use between charges. Easy bedside control: Adjust light and sound using the controls on the device. This Q2 version does not include a remote. Your room, at a gentler volume Use LumaNest to soften a noisy room, create a familiar cue for bedtime, or bring a little warmth to a guest room or travel stay. It is a small ritual with a noticeable presence on the nightstand. Details Sound options: 10 built-in sounds Timer settings: 15, 30, and 60 minutes Battery: 2000mAh Li-ion 18650 Usage: up to 20 hours Charging time: approximately 2.5â€“3 hours Input: DC 5V Power: 1W Dimensions: 91 Ã— 91 Ã— 135mm Color: white In the box Solacen LumaNest sleep sound machine Q2 version; remote not included",
+    "content_key": "lumanest",
+    "reference_file": "sources\\lumanest.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-lumanest-1-v2.png?v=1791016423"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "49.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511711244526",
+    "title": "Solacen Nocturne Bluetooth Sleep Mask",
+    "handle": "3d-stereo-sleep-mask-with-bluetooth-headphones",
+    "description": "Darkness, comfort, and sound in one quiet ritual The Solacen Nocturne is made for nights when a sleep mask alone is not quite enough. Its contoured 3D shape helps block surrounding light while built-in stereo speakers bring your music, sleep stories, or calming audio closer to you without adding another device to the bed. Thoughtful comfort for bedtime Light-blocking 3D shape: The contoured design is made to sit around the eyes with less direct pressure. Built-in stereo audio: Integrated 30mm speakers let you listen to music, podcasts, meditations, and sleep stories. Wireless connection: Bluetooth 5.0 pairs with compatible phones and devices for audio and calls. Soft inner lining: Crystal fleece composite fabric and a cotton lining create a gentler feel against the skin. Made for long nights: The 150mAh battery supports up to 8 hours of playback and up to 10 hours of standby. Your bedroom, made quieter Pair Nocturne with your favorite wind-down audio, settle the mask comfortably over your eyes, and let the rest of the room fade into the background. It is equally at home on the bed, in a hotel room, or on a long journey. Details Bluetooth: version 5.0 Speaker: 30mm stereo speakers Playback: up to 8 hours Standby time: up to 10 hours Battery: 150mAh, 3.7V lithium battery Charging time: approximately 2 hours Material: crystal fleece composite fabric with cotton inner lining Total length: 65cm Color options: grey, black, or brown In the box Solacen Nocturne Bluetooth sleep mask Charging cable",
+    "content_key": "nocturne",
+    "reference_file": "sources\\nocturne.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-nocturne-1-v2.png?v=1791016473"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "29.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511711736046",
+    "title": "Solacen HushWave Under-Pillow Sleep Speaker",
+    "handle": "bone-conduction-under-pillow-bluetooth-speaker",
+    "description": "Private sound for slower nights The Solacen HushWave brings a more personal way to listen at bedtime. Place it beneath your pillow and enjoy quiet audio through dual bone-conduction speakers, without wearing earbuds or filling the room with sound. Made for the space between awake and asleep Under-pillow listening: A compact form designed to sit comfortably beneath your pillow for a more discreet audio experience. Bone-conduction sound: Delivers audio through vibration, leaving your ears open to the surrounding room. Bluetooth 5.3: Connect wirelessly to a phone, tablet, or other compatible device. Two ways to listen: Use Bluetooth or play saved audio from a TF card. Sleep-friendly timer: Set the auto-off function so your audio does not need to play all night. Small enough to travel: At 113 Ã— 36 Ã— 13mm, it slips easily into a bedside drawer or overnight bag. A quieter bedtime ritual Choose a sleep story, calming playlist, podcast, or soft ambient track. Place HushWave under your pillow, set the timer, and let the last part of your evening feel more intentional. Details Speaker type: dual bone-conduction units Bluetooth: version 5.3 Wireless range: up to 10 metres Battery: built-in lithium battery, 300â€“500mAh Playback: Bluetooth and TF card Features: timing shutdown and voice prompts Dimensions: 113 Ã— 36 Ã— 13mm Material: ABS plastic Water resistance: not waterproof Warranty: 1 year Color options: white or royal blue In the box Solacen HushWave under-pillow speaker USB charging cable User manual",
+    "content_key": "hushwave",
+    "reference_file": "sources\\hushwave.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-hushwave-1-v2.png?v=1791016523"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "32.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9511712719086",
+    "title": "Solacen Stillnight 3D Sleep Mask",
+    "handle": "3d-light-blocking-sleep-eye-mask-for-hot-cold-therapy",
+    "description": "Your companion for quieter evenings Get one Stillnight mask free when you buy an eligible S5, S6 or S7 SootheSight Heated Eye Massager. Choose your mask colour and add both products to your cart. The mask discount applies automatically at checkout. One free mask per order. S3 models are excluded. Cannot be combined with other discounts. Shipping charges, if any, are shown at checkout. A softer, darker way to wind down The Solacen Stillnight Sleep Mask is made for the part of the evening when you want the world to go quiet. Its contoured 3D shape helps create a comfortable blackout feel without pressing directly against the eyes, while the breathable fabric keeps the experience light and easy. Made for deeper rest 3D contour comfort: The shaped design follows the face while leaving space around the eyes. Light-blocking coverage: Helps create a darker, more settled environment for sleep, travel, or an afternoon reset. Warm or cool comfort: Designed for hot/cold eye comfort as part of your personal wind-down routine. Breathable feel: Lightweight polyester fabric keeps the mask comfortable during longer periods of use. Easy to take anywhere: Compact and travel-friendly for bedrooms, flights, hotels, and slow mornings. Your small nightly reset Slip it on when you are ready to step away from bright screens and busy surroundings. Choose from the available colors and patterns, settle into your pillow, and let the room feel a little quieter. Details Design: 3D contoured eye mask Function: light blocking and hot/cold eye comfort Material: polyester Color options: pink, grey, white, and black Pattern options may vary by selected style In the box Solacen Stillnight 3D sleep mask",
+    "content_key": "stillnight",
+    "reference_file": "sources\\stillnight.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-stillnight-1-v2.png?v=1791016566"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "14.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9514592501998",
+    "title": "Solacen WarmEase Heated Shoulder & Knee Wrap",
+    "handle": "heated-massage-shoulder-support",
+    "description": "Warm, steady comfort for your wind-down routine When your shoulders feel heavy or your knees need a little extra care after a long day, reach for the Solacen WarmEase Wrap. It combines adjustable warmth with gentle vibration in a flexible, cordless design that fits naturally into quiet evenings, post-workout recovery, or a slower start to the day. Designed around comfort Two ways to wear it: Use the wrap on your shoulder or knee, depending on where you want focused warmth. Five heat levels: Choose the setting that feels right for you, with a temperature range of 40â€“65Â°C. Gentle vibration: Adds a soothing massage sensation while you settle into rest. Cordless convenience: The built-in 5000mAh battery supports relaxed use without staying close to a socket. Soft, flexible fit: Elastic fabric moves with you while you read, stretch, or take a quiet break. Your easier evening Charge the wrap by USB, choose a low setting to begin, and let a few minutes of warmth become part of your personal reset. It is compact enough to keep ready for the moments when comfort matters most. Details Use: shoulder or knee Heat range: 40â€“65Â°C Heat settings: 5 adjustable levels Vibration massage function Battery: built-in 5000mAh Rated voltage: 5V Power: 7.5W Material: elastic fabric Charging: USB cable Color options: grey or black In the box Solacen WarmEase heated wrap USB charging cable For personal comfort only. Follow the included instructions and choose a temperature that feels comfortable for you.",
+    "content_key": "warmease",
+    "reference_file": "sources\\warmease.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-warmease-1-v2.png?v=1791016616"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "54.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9521552687342",
+    "title": "Solacen LumaRest LED Face & Neck Mask",
+    "handle": "photon-therapy-led-facial-mask-with-neck-care",
+    "description": "An LED light ritual for your skincare routineLumaRest uses flexible silicone LED panels with a separate controller. Choose the face mask on its own or the face and neck set.Choose your coverage Face mask: Includes the face panel; no neck panel. Face & neck set: Includes both face and neck panels. Adjustable light settings: Select your mode and intensity using the controller. Wired controller: The panels connect to the controller by cable during use. Using LumaRestFollow the included manual for fitting, eye protection, session length and the settings supported by your selected kit. Keep the panels and controller away from water.Details Panel material: silicone USB charging Water resistance: IPX0 Coverage depends on the selected kit",
+    "content_key": "lumarest",
+    "reference_file": "sources\\lumarest.png",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-lumarest-1-v2.png?v=1791016672"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "329.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9615824552174",
+    "title": "Solacen DawnRise Sunrise Alarm Clock",
+    "handle": "solacen-dawnrise-sunrise-alarm-clock",
+    "description": "A softer start to your morningMake room for light in your bedside routine. Solacen DawnRise combines a sunrise-style wake-up light, a digital clock and colourful ambient lighting in one compact bedside companion.Light for your evening and morning Sunrise-simulation lighting for your wake-up routine. Digital time display on the selected clock model. Touch controls and colourful LED lighting. USB-powered design for bedside use. Selected model3W LED clock with digital display. Acrylic lampshade. Includes one sunrise alarm clock.Place on a stable bedside surface and follow the supplied operating instructions. DawnRise is a comfort and lighting accessory; it is not a medical device or a treatment for sleep conditions.",
+    "content_key": "dawnrise",
+    "reference_file": "sources\\dawnrise.jpg",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-dawnrise-sunrise-clock-supplier-a0.jpg?v=1793639985"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "69.99",
+        "currencyCode": "USD"
+      }
+    }
+  },
+  {
+    "id": "gid://shopify/Product/9615826125038",
+    "title": "Solacen PageGlow Rechargeable Reading Light",
+    "handle": "solacen-pageglow-rechargeable-reading-light",
+    "description": "One more chapter, a quieter eveningKeep your reading light close as the rest of the room settles. Solacen PageGlow clips onto your book, desk or headboard, with a flexible neck that lets you position the light where you want it.Made for your reading corner Flexible gooseneck and compact clip-on base. Warm, white and cool lighting modes. Rechargeable lithium-battery model with USB charging. Charcoal black finish for a simple bedside setup. Selected modelCharcoal Black, large-capacity rechargeable version. Includes one clip-on reading light, a USB charging cable and a user manual.Adjust the light to a comfortable position for your reading space. Battery runtime varies with brightness and use.",
+    "content_key": "pageglow",
+    "reference_file": "sources\\pageglow.webp",
+    "featuredMedia": {
+      "preview": {
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0820/1293/0286/files/solacen-pageglow-charcoal-black-selected-a0.webp?v=1793657201"
+        }
+      }
+    },
+    "priceRangeV2": {
+      "minVariantPrice": {
+        "amount": "22.99",
+        "currencyCode": "USD"
+      }
+    }
+  }
+]

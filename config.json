@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "organization_id": "6b03265def50fac1e1d794c5",
   "channels": {
     "instagram": "6b0337c98541f09ecb681a8b",
@@ -19,6 +19,6 @@
   "store_url": "https://solacen.store",
   "product_handle": "bluetooth-eye-massager-with-heat-therapy",
   "variant_id": "49549901398254",
-  "campaign": "s5_organic_2026",
+  "campaign": "solacen_organic_2026",
   "paid_spending_allowed": false
 }

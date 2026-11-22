@@ -12,3 +12,5 @@ state/local-*
 state/private-*
 assets/*.png
 docs/buffer-queue-proof.png
+sources/
+docs/buffer-schema-proof.json

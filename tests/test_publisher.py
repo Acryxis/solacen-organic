@@ -75,6 +75,23 @@ class SchedulerTests(unittest.TestCase):
         api=FakeBuffer()
         with self.assertRaises(ValueError): self.execute(api)
         self.assertFalse(api.created)
+    def test_catalogue_link_does_not_send_another_product_to_s5(self):
+        row=dict(self.rows[0],product_handle='solacen-pageglow-rechargeable-reading-light')
+        data=p.make_input(self.config,row,'facebook',self.now.date())
+        self.assertIn('/products/solacen-pageglow-rechargeable-reading-light?',data['text'])
+        self.assertNotIn('variant=',data['text'])
+    def test_music_reel_is_automatic_video_on_both_channels(self):
+        row=dict(self.rows[0],format='reel',assets=['calm.mp4'],hook='Quiet evening')
+        for platform in ('instagram','facebook'):
+            data=p.make_input(self.config,row,platform,self.now.date())
+            self.assertEqual(data['metadata'][platform]['type'],'reel')
+            self.assertIn('video',data['assets'][0])
+            self.assertEqual(data['schedulingType'],'automatic')
+    def test_optional_image_disclosure_and_required_disclosure_are_distinct(self):
+        row=self.rows[0]
+        self.assertFalse(p.make_input(self.config,row,'instagram',self.now.date())['metadata']['instagram']['isAiGenerated'])
+        row=dict(row,disclosure_required=True)
+        self.assertTrue(p.make_input(self.config,row,'instagram',self.now.date())['metadata']['instagram']['isAiGenerated'])
     def test_transient_retry_uses_same_post_not_new_creation(self):
         api=FakeBuffer();self.execute(api)
         api.created[0].update(status='error',error={'message':'Temporary network failure'})

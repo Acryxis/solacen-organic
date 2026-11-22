@@ -90,26 +90,33 @@ def post_identity(channel,text,due):
     normalized=parse_time(due).astimezone(timezone.utc).isoformat() if due else ''
     return hashlib.sha256((channel+'\n'+text+'\n'+normalized).encode()).hexdigest()
 
-def tracked_url(config,platform,item_id):
-    args={'variant':config['variant_id'],'utm_source':platform,'utm_medium':'organic_social',
+def tracked_url(config,platform,item_id,row=None):
+    row=row or {}
+    args={'utm_source':platform,'utm_medium':'organic_social',
           'utm_campaign':config['campaign'],'utm_content':item_id}
-    return config['store_url']+'/products/'+config['product_handle']+'?'+urllib.parse.urlencode(args)
+    variant=row.get('variant_id',config['variant_id'] if not row.get('product_handle') else None)
+    if variant: args['variant']=variant
+    path='/collections/all' if row.get('collection_link') else '/products/'+row.get('product_handle',config['product_handle'])
+    return config['store_url']+path+'?'+urllib.parse.urlencode(args)
 
 def make_input(config,row,platform,day,*,draft=False):
     hour,minute=map(int,config['posting_times'][platform].split(':'))
     due=datetime(day.year,day.month,day.day,hour,minute,tzinfo=ZoneInfo(config['target_timezone'])).astimezone(timezone.utc)
-    text=row[platform+'_caption'].replace('{url}',tracked_url(config,platform,row['id']))
+    text=row[platform+'_caption'].replace('{url}',tracked_url(config,platform,row['id'],row))
     assets=[]
     for name in row['assets']:
-        entry={'url':config['asset_base_url'].rstrip('/')+'/'+urllib.parse.quote(name),'metadata':{'altText':row['alt']}}
-        assets.append({'image':entry})
+        url=config['asset_base_url'].rstrip('/')+'/'+urllib.parse.quote(name)
+        if row.get('format')=='reel':
+            assets.append({'video':{'url':url,'metadata':{'title':row['hook'],'thumbnailOffset':1000}}})
+        else:
+            assets.append({'image':{'url':url,'metadata':{'altText':row['alt']}}})
     data={'channelId':config['channels'][platform],'text':text,'assets':assets,
           'schedulingType':'automatic','mode':'customScheduled','dueAt':due.isoformat().replace('+00:00','Z'),
           'needsApproval':False,'saveToDraft':draft,'aiAssisted':True}
     if platform=='instagram':
-        data['metadata']={'instagram':{'type':'post','shouldShareToFeed':True,'isAiGenerated':True}}
+        data['metadata']={'instagram':{'type':'reel' if row.get('format')=='reel' else 'post','shouldShareToFeed':True,'isAiGenerated':bool(row.get('disclosure_required',False))}}
     else:
-        data['metadata']={'facebook':{'type':'post'}}
+        data['metadata']={'facebook':{'type':'reel' if row.get('format')=='reel' else 'post'}}
     return data
 
 def validate(config,queue,*,live=False):
@@ -138,8 +145,9 @@ def check_assets(config,row):
     for asset in row['assets']:
         req=urllib.request.Request(config['asset_base_url'].rstrip('/')+'/'+urllib.parse.quote(asset),method='HEAD')
         with urllib.request.urlopen(req,timeout=20) as resp:
-            if not resp.headers.get('Content-Type','').startswith('image/'):
-                raise ValueError('Asset URL does not serve an image: '+asset)
+            expected='video/' if row.get('format')=='reel' else 'image/'
+            if not resp.headers.get('Content-Type','').startswith(expected):
+                raise ValueError('Asset URL does not serve the expected media type: '+asset)
 
 def plan(config,queue,now):
     first=date.fromisoformat(config['first_day'])
