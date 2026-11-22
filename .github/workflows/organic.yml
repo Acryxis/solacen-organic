@@ -1,0 +1,40 @@
+name: Solacen organic queue
+on:
+  schedule:
+    - cron: '17 8,16,23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: solacen-organic-publishing
+  cancel-in-progress: false
+jobs:
+  refill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Reconcile and refill Buffer
+        id: publish
+        continue-on-error: true
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: python publisher.py --write
+      - name: Persist reconciliation state
+        if: always()
+        run: |
+          git config user.name 'Solacen organic automation'
+          git config user.email 'automation@users.noreply.github.com'
+          git add state/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record organic publishing results'
+            git push
+          fi
+      - name: Surface failure after preserving state
+        if: steps.publish.outcome == 'failure'
+        run: exit 1

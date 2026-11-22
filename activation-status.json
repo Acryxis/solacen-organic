@@ -1,0 +1,17 @@
+{
+  "updated": "2026-11-22",
+  "research_read": true,
+  "live_store_reviewed": true,
+  "original_ai_images_created": 4,
+  "post_concepts": 30,
+  "instagram_connected_api_verified": true,
+  "facebook_connected_api_verified": false,
+  "buffer_api_read_test": "passed",
+  "local_scheduler_tests": "6 passed",
+  "public_asset_hosting_verified": false,
+  "cloud_workflow_deployed": false,
+  "live_publish_verified": false,
+  "daily_automation_active": false,
+  "new_spend_eur": 0,
+  "remaining": ["Connect Solacen Facebook Page", "Create cloud repository and secret", "Deploy public assets and workflow", "Validate live API schema and schedule test", "Verify both platform post results"]
+}

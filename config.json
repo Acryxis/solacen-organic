@@ -1,0 +1,24 @@
+{
+  "enabled": false,
+  "organization_id": "6b03265def50fac1e1d794c5",
+  "channels": {
+    "instagram": "6b0337c98541f09ecb681a8b",
+    "facebook": ""
+  },
+  "asset_base_url": "https://raw.githubusercontent.com/Acryxis/solacen-organic/main/assets",
+  "first_day": "2026-11-23",
+  "target_timezone": "America/New_York",
+  "posting_times": {
+    "instagram": "14:15",
+    "facebook": "14:35"
+  },
+  "lookahead_days": 7,
+  "queue_limit_per_channel": 10,
+  "evergreen_rotation": true,
+  "maximum_cycle": 3,
+  "store_url": "https://solacen.store",
+  "product_handle": "bluetooth-eye-massager-with-heat-therapy",
+  "variant_id": "49549901398254",
+  "campaign": "s5_organic_2026",
+  "paid_spending_allowed": false
+}

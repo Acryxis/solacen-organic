@@ -1,0 +1,11 @@
+.buffer-key
+.env
+.env.*
+__pycache__/
+.vendor/
+.venv/
+*.pyc
+docs/buffer-reference.*
+docs/source-research.md
+state/*.tmp
+state/local-*

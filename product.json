@@ -1,0 +1,15 @@
+{
+  "checked_date": "2026-11-22",
+  "evidence": "Live Shopify connector and public product page",
+  "title": "Solacen SootheSight S5 Heated Eye Massager",
+  "product_id": "9506166309102",
+  "handle": "bluetooth-eye-massager-with-heat-therapy",
+  "currency": "USD",
+  "s5_price": "109.99",
+  "colours": ["Pink", "White", "Black"],
+  "features": ["Warmth", "Massage", "Bluetooth audio", "Digital display"],
+  "offer": "One complimentary StillNight mask with eligible S5, S6 or S7 when both products are in the cart. S3 excluded. Cannot combine with other discounts.",
+  "cta": "Choose the massager and free mask colour, then use Add massager + free mask on the product page.",
+  "shipping": "Free standard shipping to supported destinations. Delivery estimates and availability depend on destination.",
+  "prohibited_inferences": ["Neck or shoulder massage from S5", "Insomnia or migraine treatment", "Guaranteed sleep or health outcomes", "Invented customer testimonials", "Guaranteed Christmas delivery", "Combining free gift and SOLACEN10", "Physical colour-changing shell"]
+}
