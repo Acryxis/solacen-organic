@@ -1,5 +1,24 @@
 # Solacen organic system — 22 November 2026
 
+## Latest cadence — FOUR daily posts per platform
+
+User requested four organic posts each day on Instagram AND Facebook. This supersedes every older one-post-per-day statement below. The expanded queue has 240 post variations per platform for 60 days (23 November–21 January), not merely fifteen days from consuming the previous sixty concepts four times faster. Each day mixes different products and roles. Existing afternoon post IDs, captions and times were preserved; three new slots supplement them. Existing product images, two added AI lifestyle photographs, new native headline layouts and six available music Reels are reused; this is not 240 independent AI photographs.
+
+America/New_York market time is intentional for the initial US audience:
+
+| Slot | Instagram | Facebook |
+|---|---|---|
+| Morning | 08:15 | 08:35 |
+| Afternoon | 14:15 | 14:35 |
+| Evening | 18:15 | 18:35 |
+| Night | 21:15 | 21:35 |
+
+Buffer Free still permits ten upcoming posts per channel at a time. The cloud refills three times daily; at steady state that is about 2.5 days queued, rather than the previous seven-day reserve. During the transition, seven pre-existing afternoon posts occupy future slots, and new near-term morning/evening/night posts fill available spaces as posts publish. Do not delete future afternoon posts merely to rearrange the reserve. GitHub's seven-day planning horizon remains a search window, not a promise of 28 scheduled posts per channel. Monitor interruptions promptly because the reserve is smaller.
+
+More frequency is a controlled operating hypothesis, not a ranking advantage or promise of sales. Review per-post reach, saves/shares, profile/store visits, carts, orders and contribution; compare time slots with relevant caveats. Do not automatically reduce or revert the user's four-daily preference without discussing meaningful evidence. All sixteen scheduler tests pass, including sixty-day coverage, target-market times and preserving existing afternoon posts. Core posting remains external; weekly local review instructions were updated to preserve this cadence. No ad spend or new subscription is activated.
+
+Preparation: run build_four_daily.py for the live expanded queue. build_catalogue_queue.py produces the older sixty base concepts; do not deploy that alone as the live four-daily queue. The archived base is docs/sixty-base-concepts.json.
+
 ## Latest expansion — supersedes the initial S5-only batch below
 
 Live accounts reverified: Instagram @solacenstore and the Solacen Facebook Page. The library now holds 60 daily concepts: 24 S5 concepts, three for each of the other eleven products, and three comparisons. All twelve full product descriptions and existing featured images were retrieved from Shopify. Store design, prices, shipping and offers were preserved.

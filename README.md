@@ -1,5 +1,7 @@
 # Solacen daily organic publishing
 
+**Current cadence: four posts daily on EACH platform**, morning/afternoon/evening/night in US Eastern time. The live queue contains 240 post variations for sixty days, with original afternoon posts preserved. Cloud refills respect Buffer Free's ten-upcoming-post cap per account (about 2.5 days at steady state), not 28 queued posts. Use build_four_daily.py for the expanded queue. Sixteen tests pass. This latest cadence supersedes historical one-daily counts below; consult the top of docs/OPERATIONS.md.
+
 See [operations and strategy](docs/OPERATIONS.md), [60-post queue](queue.json), [visual library](library.html), [current configuration](config.json), and [activation evidence](activation-status.json).
 
 Expected incremental recurring cost: **EUR0** for the selected Buffer Free / public GitHub Actions / batch-image route within current free limits. Existing Shopify, domain, mailbox and AI-plan costs remain separate. No paid image API, n8n host, Make plan or ad expense is activated.

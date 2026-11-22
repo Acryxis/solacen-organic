@@ -3,11 +3,11 @@
   "research_read": true,
   "live_store_reviewed": true,
   "original_ai_images_created": 6,
-  "post_concepts": 60,
+  "post_concepts": 240,
   "instagram_connected_api_verified": true,
   "facebook_connected_api_verified": true,
   "buffer_api_read_test": "passed",
-  "local_scheduler_tests": "13 passed",
+  "local_scheduler_tests": "16 passed",
   "public_asset_hosting_verified": true,
   "cloud_workflow_deployed": true,
   "live_publish_verified": true,
@@ -18,9 +18,9 @@
     "Verify Shopify organic sessions and orders as real traffic arrives",
     "Instagram profile link uses existing store link; post-level attribution is limited"
   ],
-  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45062404365",
-  "instagram_scheduled": 7,
-  "facebook_scheduled": 7,
+  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45064163602",
+  "instagram_scheduled": 10,
+  "facebook_scheduled": 10,
   "weekly_review_automation": "solacen-weekly-organic-growth-review",
   "instagram_first_live": "https://www.instagram.com/p/DgDhl-JF1b-/",
   "facebook_first_live": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
@@ -28,5 +28,9 @@
   "music_reels_prepared": 6,
   "music_reel_destinations_scheduled": 4,
   "instagram_optional_labels_off_scheduled": 7,
-  "scheduled_ids_preserved": true
+  "scheduled_ids_preserved": true,
+  "prepared_days": 60,
+  "posts_per_day_per_platform": 4,
+  "cadence_timezone": "America/New_York",
+  "four_slots_first_day_api_verified": true
 }
