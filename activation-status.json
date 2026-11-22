@@ -7,14 +7,21 @@
   "instagram_connected_api_verified": true,
   "facebook_connected_api_verified": true,
   "buffer_api_read_test": "passed",
-  "local_scheduler_tests": "6 passed",
+  "local_scheduler_tests": "9 passed",
   "public_asset_hosting_verified": true,
   "cloud_workflow_deployed": true,
-  "live_publish_verified": false,
-  "daily_automation_active": false,
+  "live_publish_verified": true,
+  "daily_automation_active": true,
   "new_spend_eur": 0,
   "remaining": [
-    "Verify first cloud run and both platform scheduling readbacks",
-    "Verify first real public publication after due time"
-  ]
+    "Observe the first scheduled daily posts after their due time",
+    "Verify Shopify organic sessions and orders as real traffic arrives",
+    "Instagram profile link uses existing store link; post-level attribution is limited"
+  ],
+  "cloud_run_verified": "https://github.com/Acryxis/solacen-organic/actions/runs/45058999595",
+  "instagram_scheduled": 7,
+  "facebook_scheduled": 7,
+  "weekly_review_automation": "solacen-weekly-organic-growth-review",
+  "instagram_first_live": "https://www.instagram.com/p/DgDhl-JF1b-/",
+  "facebook_first_live": "https://www.facebook.com/122123202141501800/posts/122123203737501800"
 }

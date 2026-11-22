@@ -11,12 +11,17 @@ import publisher as p
 
 class FakeBuffer:
     def __init__(self, fail=None, uncertain=None):
-        self.created=[];self.fail=fail;self.uncertain=uncertain
+        self.created=[];self.fail=fail;self.uncertain=uncertain;self.retry_calls=0
     def channels(self,org):
         return [{'id':c,'isDisconnected':False,'isLocked':False,'isQueuePaused':False} for c in ('ig','fb')]
     def posts(self,*args): return self.created[:]
     def query(self,q,variables,mutation=False):
         data=variables['input']
+        if 'publishPostNow' in q:
+            self.retry_calls+=1
+            post=next(x for x in self.created if x['id']==data['id'])
+            post['status']='sending'
+            return {'publishPostNow':{'__typename':'PostActionSuccess','post':post}}
         if data['channelId']==self.uncertain:
             raise p.APIError('write outcome uncertain')
         if data['channelId']==self.fail:
@@ -70,5 +75,21 @@ class SchedulerTests(unittest.TestCase):
         api=FakeBuffer()
         with self.assertRaises(ValueError): self.execute(api)
         self.assertFalse(api.created)
+    def test_transient_retry_uses_same_post_not_new_creation(self):
+        api=FakeBuffer();self.execute(api)
+        api.created[0].update(status='error',error={'message':'Temporary network failure'})
+        self.now=datetime(2026,11,24,20,tzinfo=timezone.utc)
+        self.execute(api)
+        self.assertEqual(api.retry_calls,1)
+        self.assertEqual(len(api.created),6)
+        self.assertEqual(sum(x['id']=='1' for x in api.created),1)
+    def test_auth_error_is_not_retried(self):
+        api=FakeBuffer();self.execute(api)
+        api.created[0].update(status='error',error={'message':'Permission revoked; reconnect'})
+        self.execute(api)
+        self.assertEqual(api.retry_calls,0)
+    def test_evergreen_can_continue_after_ninety_days(self):
+        self.config['maximum_cycle']=0
+        self.assertTrue(list(p.plan(self.config,self.rows,p.datetime(2027,3,1,10,tzinfo=p.timezone.utc))))
 
 if __name__=='__main__': unittest.main()

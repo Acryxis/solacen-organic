@@ -147,15 +147,23 @@ def plan(config,queue,now):
     end=today+timedelta(days=config['lookahead_days'])
     for day_offset in range(max(0,(today-first).days),(end-first).days+1):
         cycle,index=divmod(day_offset,len(queue))
-        if cycle>=config.get('maximum_cycle',1) or (cycle and not config.get('evergreen_rotation')):
+        maximum_cycle=config.get('maximum_cycle',1)
+        if (maximum_cycle>0 and cycle>=maximum_cycle) or (cycle and not config.get('evergreen_rotation')):
             break
         row=dict(queue[index])
         if cycle:
             # An explicit 30-day cooldown; no identical caption reposts. No new model cost.
             row['id']+=f'_c{cycle+1}'
-            prefaces=['A little reminder for your evening.','Make room for a quieter moment.']
+            prefaces=['A little reminder for your evening.','Make room for a quieter moment.',
+              'Comfort, at your own pace.','Give the slower part of your day some space.',
+              'Thoughtful details for an everyday wind-down.','A small pause can be part of your routine.',
+              'Keep a moment that feels like yours.','Your next quiet evening starts with a little space.',
+              'A familiar ritual, a little more considered.','Take a closer look at your evening comforts.',
+              'Leave a little room for rest.','Revisit a favourite way to wind down.']
             for platform in ('instagram','facebook'):
                 row[platform+'_caption']=prefaces[(cycle-1)%len(prefaces)]+'\n\n'+row[platform+'_caption']
+                if today.month not in (11,12,1,2):
+                    row[platform+'_caption']=row[platform+'_caption'].replace('winter evening','evening')
         if row['review_state']!='ready':
             continue
         day=first+timedelta(days=day_offset)
@@ -232,7 +240,8 @@ def run(config,queue,api,now,*,write=False):
         if not transient or post.get('retry_attempts',0)>=2:
             state['alerts'].append(f"{post.get('queue_id')}: publishing failure needs attention; no replacement post created.")
             continue
-        if now-parse_time(post.get('dueAt'))>timedelta(days=1):
+        due=parse_time(post.get('dueAt'))
+        if not due or not timedelta(0)<=now-due<=timedelta(days=1):
             continue
         if post.get('retry_uncertain'):
             continue

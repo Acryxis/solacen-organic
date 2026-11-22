@@ -15,7 +15,7 @@
   "lookahead_days": 7,
   "queue_limit_per_channel": 10,
   "evergreen_rotation": true,
-  "maximum_cycle": 3,
+  "maximum_cycle": 0,
   "store_url": "https://solacen.store",
   "product_handle": "bluetooth-eye-massager-with-heat-therapy",
   "variant_id": "49549901398254",

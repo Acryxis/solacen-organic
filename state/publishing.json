@@ -224,7 +224,7 @@
       "dueAt": "2026-11-25T19:35:00.000Z",
       "id": "6b033d0cd5eabfb8ccd0c5d2",
       "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or black—which fits your room?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o03",
+      "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or blackâ€”which fits your room?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5o03",
       "sentAt": null,
       "externalLink": null,
       "schedulingType": "automatic",
@@ -437,6 +437,74 @@
       "externalLink": null,
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:05:49.844Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "46aac482f91a19dec52cd95f270f56c9302ac5e4d36b48806e7d68b97fee6037": {
+      "queue_id": "s5_intro_20261122",
+      "family": "introduction",
+      "platform": "instagram",
+      "id": "6b033e20c72676f5e952c108",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Meet SootheSight S5.\n\nWarmth, massage and Bluetooth audio, with a digital display and a choice of pink, white or black. A little technology for the evening you make your own.\n\nExplore the S5 details and eligible StillNight offer through the link in our profile.\n\n#Solacen #SootheSight #EveningRoutine",
+      "status": "sent",
+      "dueAt": "2026-11-22T19:10:24.405Z",
+      "sentAt": "2026-11-22T19:10:49.303Z",
+      "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:10:24.334Z",
+      "metrics": null,
+      "error": null
+    },
+    "f7a5f2076a152f2bb5626b73e6ebd2dd40205a4965c771c1161c467d9186cd4c": {
+      "queue_id": "s5_intro_20261122",
+      "family": "introduction",
+      "platform": "facebook",
+      "id": "6b033e2bd5eabfb8ccd1499c",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Meet SootheSight S5.\n\nWarmth, massage and Bluetooth audio, with a digital display and a choice of pink, white or black. A little technology for the evening you make your own.\n\nExplore the S5 details and eligible StillNight offer: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?variant=49549901398254&utm_source=facebook&utm_medium=organic_social&utm_campaign=s5_organic_2026&utm_content=s5_intro_20261122\n\nAI-assisted product imagery.",
+      "status": "sent",
+      "dueAt": "2026-11-22T19:10:35.275Z",
+      "sentAt": "2026-11-22T19:10:41.722Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-22T19:11:44.431Z",
       "metrics": [
         {
           "type": "reactions",

@@ -1,0 +1,34 @@
+{
+  "s5-bedside-white-02.jpg": {
+    "bytes": 253574,
+    "sha256": "377633fe3f7745adeb4c0a59ad62d99979e363356cedfee3e707a05db69abb3f"
+  },
+  "s5-black-audio-03.jpg": {
+    "bytes": 249095,
+    "sha256": "8510868d1cc30f9a286f95fe1ee8cfef1afe597cc7ab5ef62ca7c4284a71c5ed"
+  },
+  "s5-black-reference.jpg": {
+    "bytes": 112491,
+    "sha256": "3ce73e4cccb64ec11e7adaff67ca7df697ed874389a8dd1100addc01249a5ac1"
+  },
+  "s5-colour-choice-04.jpg": {
+    "bytes": 231969,
+    "sha256": "5d8bc8266ea2aa4c84a3e55c24affdff5a10363948d527a93d9b67df54b3f47f"
+  },
+  "s5-pink-reference.jpg": {
+    "bytes": 101387,
+    "sha256": "c24e40f95e0128d8cf9ef7552b018b713707b351bca48e1223eb9f7fb012dfad"
+  },
+  "s5-sofa-pink-01.jpg": {
+    "bytes": 234327,
+    "sha256": "486ca70181190c56f876a326f56032d3cd80d122f9c9fed4e5d483c9c8c13909"
+  },
+  "s5-white-reference.jpg": {
+    "bytes": 109969,
+    "sha256": "39b108c245e9d5cdc4e3d163bf58c4fd0f5674ae332b5700d37a0859bdbd72de"
+  },
+  "stillnight-reference.jpg": {
+    "bytes": 125786,
+    "sha256": "baced468d11a06d71328541a10dd58ca0073709dd8c56f58d52a881f1d13a64b"
+  }
+}

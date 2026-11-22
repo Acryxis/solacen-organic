@@ -47,7 +47,7 @@ Use Shopify as order/revenue source of truth. Instagram/Facebook reach and likes
 
 ## Content replenishment and feedback limits
 
-The first 30 days use the written batch. A conservative evergreen fallback can rotate the library at a 30-day cooldown with altered caption framing, up to 90 days. This is retrieval/recomposition, not daily new model-generated photography. It is a reserve, not the preferred long-term creative strategy. Before the reserve ends, produce a new batch from actual objections and commercial-intent evidence. No monthly invoice or generation purchase is authorized automatically.
+The first 30 days use the written batch. An evergreen fallback rotates the library at a 30-day concept cooldown with altered caption framing, without a fixed end date. This is retrieval/recomposition, not daily new model-generated photography. It keeps delivery running but is not the preferred long-term creative strategy. Produce new batches from actual objections and commercial-intent evidence in the weekly review. After twelve evergreen cycles, framing can repeat; do not describe the fallback as endlessly original. No monthly invoice or generation purchase is authorized automatically.
 
 Performance ingestion is automatic where Buffer returns metrics; API fields can be null or not available on a plan. Buffer documents that some unreported metrics default to zero; absence of an available metric is not proof of zero engagement. Shopify conversion aggregation still needs store analytics access in the recurring runtime; no private Shopify API token is assumed to exist just because this chat's connector works.
 
@@ -60,7 +60,7 @@ The initial system does not automatically rewrite live product prices, invent ma
 | 14 days | Verify daily delivery on both channels; compare after-work, feature, colour, audio and offer concepts. Fix broken links, low clarity and actual customer objections. No arbitrary follower target. |
 | 30 days | Review Shopify organic sessions and purchase funnel, replace estimated order costs with actual invoices, generate the next original batch. Allocate more posts to promising concepts without declaring low-sample winners. |
 | 60 days | Develop additional original product-use explanations from questions; compare single image versus carousel and qualified traffic by platform. Verify fulfilled-order contribution and support workload. |
-| 90 days | Keep formats that contribute to orders and margin; replenish library before reserve expires. Consider a finite paid experiment only with separate affordable-loss budget approval. Organic performance is evidence, not a paid-performance guarantee. |
+| 90 days | Keep formats that contribute to orders and margin; refresh the original library rather than depending on evergreen rotation. Consider a finite paid experiment only with separate affordable-loss budget approval. Organic performance is evidence, not a paid-performance guarantee. |
 
 ## Research reconciliation
 
