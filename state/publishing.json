@@ -12,8 +12,49 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:10:24.334Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-23T18:43:40.706Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "f7a5f2076a152f2bb5626b73e6ebd2dd40205a4965c771c1161c467d9186cd4c": {
@@ -28,7 +69,7 @@
       "sentAt": "2026-11-22T19:10:41.722Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:11:44.431Z",
+      "metricsUpdatedAt": "2026-11-23T18:02:10.985Z",
       "metrics": [
         {
           "type": "reactions",
@@ -72,13 +113,13 @@
       "queue_id": "s5o01",
       "family": "after_work",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T19:15:00.000Z",
       "id": "6b033ca6d864a01105ea3493",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nSave this for your next slow evening.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T19:15:52.376Z",
+      "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:04:06.860Z",
       "metrics": null,
@@ -90,15 +131,15 @@
       "queue_id": "s5o01",
       "family": "after_work",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T19:35:00.000Z",
       "id": "6b033d0cd864a01105ea7364",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Let the day fade away.\n\nMake room for a warm pause after a screen-heavy day. SootheSight S5 brings warmth, massage and Bluetooth audio into your evening routine.\n\nWhat helps you switch out of work mode?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o01&variant=49549901398254",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T19:35:09.072Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123544807501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.346Z",
+      "metricsUpdatedAt": "2026-11-23T19:36:12.502Z",
       "metrics": [
         {
           "type": "reactions",
@@ -576,31 +617,72 @@
       "queue_id": "d01_morning_dawnrise",
       "family": "morning_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T13:15:00.000Z",
       "id": "6b034a72bf5d5a73b6ba8a8e",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Light for the start of your day.\n\nSmall comforts can have a place in your morning, too.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSave this idea for your own routine.\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T13:15:35.903Z",
+      "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:02:58.133Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-23T18:43:40.711Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "9cd551ecd003b4093c71c43374e61336b83075fa88dafdd6b1edc2b9db208aed": {
       "queue_id": "d01_morning_dawnrise",
       "family": "morning_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T13:35:00.000Z",
       "id": "6b034a72d5eabfb8ccd6cfaa",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Light for the start of your day.\n\nSmall comforts can have a place in your morning, too.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nSee the features and selected version.\nExplore DawnRise: https://solacen.store/products/solacen-dawnrise-sunrise-alarm-clock?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_morning_dawnrise&variant=49933785891054",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T13:35:11.050Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123422413501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:02:58.449Z",
+      "metricsUpdatedAt": "2026-11-23T18:02:10.985Z",
       "metrics": [
         {
           "type": "reactions",
@@ -775,8 +857,144 @@
         }
       ],
       "error": null
+    },
+    "415bd6fae28f8045aedc13ce48b04b8e6c48e79fe4cff2c9e0a380a9aa223e95": {
+      "queue_id": "d02_morning_quietweight",
+      "family": "morning_features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T13:15:00.000Z",
+      "id": "6b049e26a083c79d702ec942",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the product details through our profile.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-23T20:12:22.881Z",
+      "metrics": null,
+      "error": null
+    },
+    "2ce21c9abe3f02fe39d25bc64d94d1476593e3a9fb5549eb38461225ee040d86": {
+      "queue_id": "d02_morning_quietweight",
+      "family": "morning_features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T13:35:00.000Z",
+      "id": "6b049e27a083c79d702ec969",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nFind the details before choosing your setup.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d02_morning_quietweight&variant=49572435296494",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-23T20:12:23.227Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "389d08c29e18e4f83a17a49d201c848b7059464269a593cf1898f8f298eaae34": {
+      "queue_id": "d02_evening_emberglow",
+      "family": "evening_features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T23:15:00.000Z",
+      "id": "6b049e27c890e50e66ac2376",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSee the product details through our profile.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-23T20:12:23.985Z",
+      "metrics": null,
+      "error": null
+    },
+    "57d68fb6211d7dbc7e76775e7e3dd0e28b6b7273160dadcfcd94956c5ed94922": {
+      "queue_id": "d02_evening_emberglow",
+      "family": "evening_features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-24T23:35:00.000Z",
+      "id": "6b049e28c890e50e66ac239d",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nFind the details before choosing your setup.\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d02_evening_emberglow&variant=49572433658094",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-23T20:12:24.354Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-23T03:42:36.937764+00:00"
+  "last_run_utc": "2026-11-23T20:12:21.413615+00:00"
 }
