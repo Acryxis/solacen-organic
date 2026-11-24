@@ -12,11 +12,11 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T18:43:40.706Z",
+      "metricsUpdatedAt": "2026-11-24T18:46:06.442Z",
       "metrics": [
         {
           "type": "reactions",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -69,7 +69,7 @@
       "sentAt": "2026-11-22T19:10:41.722Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T18:02:10.985Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -121,8 +121,49 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:06.860Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-24T18:46:06.453Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null,
       "product_key": "soothesight",
       "format": "carousel"
@@ -139,7 +180,7 @@
       "sentAt": "2026-11-23T19:35:09.072Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123544807501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T19:36:12.502Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -185,13 +226,13 @@
       "queue_id": "pageglow01",
       "family": "ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-24T19:15:00.000Z",
       "id": "6b033ca7c72676f5e9522af9",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "One more chapter. Less overhead light.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nSave this for your next quiet evening.\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-24T19:16:06.815Z",
+      "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:04:07.843Z",
       "metrics": null,
@@ -625,11 +666,11 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T18:43:40.711Z",
+      "metricsUpdatedAt": "2026-11-24T18:46:06.450Z",
       "metrics": [
         {
           "type": "reactions",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -682,7 +723,7 @@
       "sentAt": "2026-11-23T13:35:11.050Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123422413501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T18:02:10.985Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -734,8 +775,49 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:02:59.001Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-24T18:46:06.448Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "d3ad4048ed48b48a6a2ce1c2a47c8709f508d44971168cb3344e55e4fb87bba8": {
@@ -750,7 +832,7 @@
       "sentAt": "2026-11-23T23:35:09.422Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123587863501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T23:36:11.988Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -802,8 +884,49 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:02:59.750Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-24T18:46:06.446Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "c8cae94bcdfae5c3d674c47eccad873e9f0e89716f1e5bbba449e6c705bfa03e": {
@@ -818,7 +941,7 @@
       "sentAt": "2026-11-24T02:35:11.189Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123612877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T02:36:14.205Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -837,12 +960,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -862,31 +985,72 @@
       "queue_id": "d02_morning_quietweight",
       "family": "morning_features",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-24T13:15:00.000Z",
       "id": "6b049e26a083c79d702ec942",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the product details through our profile.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-24T13:15:49.185Z",
+      "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T20:12:22.881Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-24T18:46:06.444Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "2ce21c9abe3f02fe39d25bc64d94d1476593e3a9fb5549eb38461225ee040d86": {
       "queue_id": "d02_morning_quietweight",
       "family": "morning_features",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-24T13:35:00.000Z",
       "id": "6b049e27a083c79d702ec969",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nFind the details before choosing your setup.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d02_morning_quietweight&variant=49572435296494",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-24T13:35:10.257Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123728473501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T20:12:23.227Z",
+      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1129,8 +1293,92 @@
         }
       ],
       "error": null
+    },
+    "da6777ba8985a0463dffba4491c9b8d0ab99f49b425e0054fa7b8b29a7f876dd": {
+      "queue_id": "d03_evening_pageglow",
+      "family": "evening_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T23:15:00.000Z",
+      "id": "6b05e5c3bc1fcb6588e54643",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Your next chapter deserves its own light.\n\nThe slower part of the day can be simple.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWhich listed feature would you use most?\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T19:30:11.560Z",
+      "metrics": null,
+      "error": null
+    },
+    "6809fc8fb61bf62787f94fcd6b4eca5816ffe73221631a7360ef57ab52fabc36": {
+      "queue_id": "d03_evening_pageglow",
+      "family": "evening_choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T23:35:00.000Z",
+      "id": "6b05e5c5d8711eba6d94773d",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Your next chapter deserves its own light.\n\nThe slower part of the day can be simple.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWould this fit your own routine?\nExplore PageGlow: https://solacen.store/products/solacen-pageglow-rechargeable-reading-light?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d03_evening_pageglow&variant=49933805027566",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T19:30:13.586Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "d9b2237863c186e52da4d898ba0d083f33e72e42217f7979c08a9a25dfee23c7": {
+      "queue_id": "d03_night_lumanest",
+      "family": "night_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-26T02:15:00.000Z",
+      "id": "6b05e5c6d8711eba6d947b3a",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "What does your quieter room sound like?\n\nA small detail for the last part of your evening.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nWhich listed feature would you use most?\nExplore LumaNest: link in bio.\n\n#Solacen #EveningRoutine #LumaNest",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T19:30:14.876Z",
+      "metrics": null,
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-24T06:57:45.525851+00:00"
+  "last_run_utc": "2026-11-24T19:30:07.122296+00:00"
 }
