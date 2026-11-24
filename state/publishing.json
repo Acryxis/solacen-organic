@@ -726,13 +726,13 @@
       "queue_id": "d01_evening_emberglow",
       "family": "evening_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T23:15:00.000Z",
       "id": "6b034a73cc364169c17fd672",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSave this idea for your own routine.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T23:15:31.548Z",
+      "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T20:02:59.001Z",
       "metrics": null,
@@ -742,15 +742,15 @@
       "queue_id": "d01_evening_emberglow",
       "family": "evening_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-23T23:35:00.000Z",
       "id": "6b034a73bf5d5a73b6ba8b89",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "A softer glow for your reading corner.\n\nThe slower part of the day can be simple.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSee the features and selected version.\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_evening_emberglow&variant=49572433658094",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-23T23:35:09.422Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123587863501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:02:59.320Z",
+      "metricsUpdatedAt": "2026-11-23T23:36:11.988Z",
       "metrics": [
         {
           "type": "reactions",
@@ -794,13 +794,13 @@
       "queue_id": "d01_night_nocturne",
       "family": "night_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-24T02:15:00.000Z",
       "id": "6b034a73d5eabfb8ccd6d17d",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Give your bedtime audio a darker space.\n\nA small detail for the last part of your evening.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSave this idea for your own routine.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-24T02:15:30.697Z",
+      "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T20:02:59.750Z",
       "metrics": null,
@@ -810,15 +810,15 @@
       "queue_id": "d01_night_nocturne",
       "family": "night_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-24T02:35:00.000Z",
       "id": "6b034a74846b0ee907b3ec1e",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Give your bedtime audio a darker space.\n\nA small detail for the last part of your evening.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSee the features and selected version.\nExplore Nocturne: https://solacen.store/products/3d-stereo-sleep-mask-with-bluetooth-headphones?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d01_night_nocturne&variant=49572439032046",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-24T02:35:11.189Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122123612877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T20:03:00.301Z",
+      "metricsUpdatedAt": "2026-11-24T02:36:14.205Z",
       "metrics": [
         {
           "type": "reactions",
@@ -993,8 +993,144 @@
         }
       ],
       "error": null
+    },
+    "0b7f1aa38473ce2395dd37739de5af1186a893a62fe4680e28f6ae2ea4f78cc0": {
+      "queue_id": "d02_night_hushwave",
+      "family": "night_features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T02:15:00.000Z",
+      "id": "6b05356b060d9b648253a7ac",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Listen from beneath your pillow.\n\nA small detail for the last part of your evening.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nSee the product details through our profile.\nExplore HushWave: link in bio.\n\n#Solacen #EveningRoutine #HushWave",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T06:57:47.073Z",
+      "metrics": null,
+      "error": null
+    },
+    "014b030ddc636ca73134e2ca4f84d868043568ddfe25c1256e1282fdaded218c": {
+      "queue_id": "d02_night_hushwave",
+      "family": "night_features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T02:35:00.000Z",
+      "id": "6b05356bca4899309e65d374",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Listen from beneath your pillow.\n\nA small detail for the last part of your evening.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nFind the details before choosing your setup.\nExplore HushWave: https://solacen.store/products/bone-conduction-under-pillow-bluetooth-speaker?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d02_night_hushwave&variant=49572440244462",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T06:57:47.495Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "b6a7c3ba4f8ad50c2688b332911580374bf8bdb34262e6553580057b609b0d1e": {
+      "queue_id": "d03_morning_quietweight",
+      "family": "morning_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T13:15:00.000Z",
+      "id": "6b05356c31056e7b6e7ee4d2",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWhich listed feature would you use most?\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T06:57:48.377Z",
+      "metrics": null,
+      "error": null
+    },
+    "0f157fa0979d83af7b4a9199f30a134ba4c581f0c8c5e092113166cb2e29e85b": {
+      "queue_id": "d03_morning_quietweight",
+      "family": "morning_choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-25T13:35:00.000Z",
+      "id": "6b05356c31056e7b6e7ee4fa",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWould this fit your own routine?\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d03_morning_quietweight&variant=49572435296494",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-24T06:57:48.942Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-23T20:12:21.413615+00:00"
+  "last_run_utc": "2026-11-24T06:57:45.525851+00:00"
 }
