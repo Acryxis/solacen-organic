@@ -12,7 +12,7 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.442Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -69,7 +69,7 @@
       "sentAt": "2026-11-22T19:10:41.722Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -88,12 +88,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -121,7 +121,7 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.453Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -180,7 +180,7 @@
       "sentAt": "2026-11-23T19:35:09.072Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123544807501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -199,12 +199,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 2,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -234,8 +234,49 @@
       "sentAt": "2026-11-24T19:16:06.815Z",
       "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:07.843Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null,
       "product_key": "pageglow",
       "format": "carousel"
@@ -252,7 +293,7 @@
       "sentAt": "2026-11-24T19:35:12.393Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123814411501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T19:36:15.287Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -271,12 +312,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 3,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -666,7 +707,7 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.450Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -723,7 +764,7 @@
       "sentAt": "2026-11-23T13:35:11.050Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123422413501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -742,12 +783,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 2,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 2,
           "unit": "count"
         },
         {
@@ -775,7 +816,7 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.448Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -832,7 +873,7 @@
       "sentAt": "2026-11-23T23:35:09.422Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123587863501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -851,12 +892,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 2,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -884,7 +925,7 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.446Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -941,7 +982,7 @@
       "sentAt": "2026-11-24T02:35:11.189Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123612877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -960,12 +1001,12 @@
         },
         {
           "type": "impressions",
-          "value": 1,
+          "value": 5,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 1,
+          "value": 3,
           "unit": "count"
         },
         {
@@ -993,7 +1034,7 @@
       "sentAt": "2026-11-24T13:15:49.185Z",
       "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T18:46:06.444Z",
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1050,7 +1091,7 @@
       "sentAt": "2026-11-24T13:35:10.257Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123728473501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T17:02:21.939Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1069,12 +1110,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 3,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -1102,8 +1143,49 @@
       "sentAt": "2026-11-24T23:15:31.863Z",
       "externalLink": "https://www.instagram.com/p/DgJHMSVjODd/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-23T20:12:23.985Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "57d68fb6211d7dbc7e76775e7e3dd0e28b6b7273160dadcfcd94956c5ed94922": {
@@ -1118,7 +1200,7 @@
       "sentAt": "2026-11-24T23:35:08.025Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123863755501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T23:36:11.207Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1137,12 +1219,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 4,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -1170,8 +1252,49 @@
       "sentAt": "2026-11-25T02:15:38.424Z",
       "externalLink": "https://www.instagram.com/p/DgJbzYHpTkA/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T06:57:47.073Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "014b030ddc636ca73134e2ca4f84d868043568ddfe25c1256e1282fdaded218c": {
@@ -1186,7 +1309,7 @@
       "sentAt": "2026-11-25T02:35:13.843Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123891655501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T02:36:18.640Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.954Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1205,12 +1328,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 4,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -1230,31 +1353,72 @@
       "queue_id": "d03_morning_quietweight",
       "family": "morning_choice",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T13:15:00.000Z",
       "id": "6b05356c31056e7b6e7ee4d2",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWhich listed feature would you use most?\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T13:15:53.373Z",
+      "externalLink": "https://www.instagram.com/p/DgKnWr0l9ro/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T06:57:48.377Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "0f157fa0979d83af7b4a9199f30a134ba4c581f0c8c5e092113166cb2e29e85b": {
       "queue_id": "d03_morning_quietweight",
       "family": "morning_choice",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T13:35:00.000Z",
       "id": "6b05356c31056e7b6e7ee4fa",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Put a little stillness on your list.\n\nSmall comforts can have a place in your morning, too.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nWould this fit your own routine?\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d03_morning_quietweight&variant=49572435296494",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T13:35:11.506Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124126447501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T06:57:48.942Z",
+      "metricsUpdatedAt": "2026-11-25T16:02:33.953Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1273,12 +1437,12 @@
         },
         {
           "type": "impressions",
-          "value": 0,
+          "value": 4,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 0,
+          "value": 1,
           "unit": "count"
         },
         {
@@ -1565,8 +1729,76 @@
         }
       ],
       "error": null
+    },
+    "80d4d0339c2447e668354cee05273d3e2735de9c7b50150edef2943c42198d04": {
+      "queue_id": "d04_night_quietweight",
+      "family": "night_lifestyle",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T02:15:00.000Z",
+      "id": "6b072b3b35285a597b590d32",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nExplore the selected version through our profile.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-25T18:38:51.222Z",
+      "metrics": null,
+      "error": null
+    },
+    "61627d7ba87e5b0a07a32c387d0179717ec22565ac7f676b8f5bf274e3dddddc": {
+      "queue_id": "d04_night_quietweight",
+      "family": "night_lifestyle",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T02:35:00.000Z",
+      "id": "6b072b3bf5be12bac95e3915",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nExplore the current product information.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d04_night_quietweight&variant=49572435296494",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-25T18:38:51.682Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-25T05:26:15.313862+00:00"
+  "last_run_utc": "2026-11-25T18:38:50.024514+00:00"
 }
