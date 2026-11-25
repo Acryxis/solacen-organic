@@ -9,29 +9,34 @@ Some unreported platform metrics may appear as zero; availability and source fre
 | facebook / audio | 0 | 1 | 0 | Not available |
 | facebook / choice | 0 | 1 | 0 | Not available |
 | facebook / evening_choice | 0 | 1 | 0 | Not available |
-| facebook / evening_features | 0 | 1 | 0 | Not available |
+| facebook / evening_features | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
+| facebook / evening_lifestyle | 0 | 1 | 0 | Not available |
 | facebook / evening_ritual | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / features | 0 | 1 | 0 | Not available |
 | facebook / introduction | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / morning_choice | 0 | 1 | 0 | Not available |
 | facebook / morning_features | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
+| facebook / morning_lifestyle | 0 | 1 | 0 | Not available |
 | facebook / morning_ritual | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
-| facebook / night_features | 0 | 1 | 0 | Not available |
+| facebook / night_choice | 0 | 1 | 0 | Not available |
+| facebook / night_features | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / night_ritual | 1 | 0 | 1 | clicks=0, comments=0, impressions=1, reach=1, reactions=0, shares=0 |
-| facebook / ritual | 0 | 3 | 0 | Not available |
+| facebook / ritual | 1 | 2 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | instagram / after_work | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / audio | 0 | 1 | 0 | Not available |
 | instagram / choice | 0 | 1 | 0 | Not available |
 | instagram / evening_choice | 0 | 1 | 0 | Not available |
-| instagram / evening_features | 0 | 1 | 0 | Not available |
+| instagram / evening_features | 1 | 0 | 0 | Not available |
+| instagram / evening_lifestyle | 0 | 1 | 0 | Not available |
 | instagram / evening_ritual | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / features | 0 | 1 | 0 | Not available |
 | instagram / introduction | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / morning_choice | 0 | 1 | 0 | Not available |
 | instagram / morning_features | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
+| instagram / morning_lifestyle | 0 | 1 | 0 | Not available |
 | instagram / morning_ritual | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / night_choice | 0 | 1 | 0 | Not available |
-| instagram / night_features | 0 | 1 | 0 | Not available |
+| instagram / night_features | 1 | 0 | 0 | Not available |
 | instagram / night_ritual | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / ritual | 1 | 2 | 0 | Not available |
 
