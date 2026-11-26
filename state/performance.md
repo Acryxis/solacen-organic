@@ -15,8 +15,8 @@ Some unreported platform metrics may appear as zero; availability and source fre
 | facebook / features | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / introduction | 1 | 0 | 1 | clicks=0, comments=0, impressions=1, reach=1, reactions=0, shares=0 |
 | facebook / morning_choice | 1 | 0 | 1 | clicks=0, comments=0, impressions=4, reach=1, reactions=0, shares=0 |
-| facebook / morning_features | 1 | 0 | 1 | clicks=0, comments=0, impressions=3, reach=1, reactions=0, shares=0 |
-| facebook / morning_lifestyle | 0 | 1 | 0 | Not available |
+| facebook / morning_features | 1 | 1 | 1 | clicks=0, comments=0, impressions=3, reach=1, reactions=0, shares=0 |
+| facebook / morning_lifestyle | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / morning_ritual | 1 | 1 | 1 | clicks=0, comments=0, impressions=2, reach=2, reactions=0, shares=0 |
 | facebook / night_choice | 1 | 0 | 1 | clicks=0, comments=0, impressions=0, reach=0, reactions=0, shares=0 |
 | facebook / night_features | 1 | 0 | 1 | clicks=0, comments=0, impressions=4, reach=1, reactions=0, shares=0 |
@@ -26,17 +26,17 @@ Some unreported platform metrics may appear as zero; availability and source fre
 | instagram / after_work | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / audio | 0 | 1 | 0 | Not available |
 | instagram / choice | 0 | 1 | 0 | Not available |
-| instagram / evening_choice | 1 | 0 | 0 | Not available |
+| instagram / evening_choice | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
 | instagram / evening_features | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
 | instagram / evening_lifestyle | 0 | 1 | 0 | Not available |
 | instagram / evening_ritual | 1 | 1 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
-| instagram / features | 1 | 0 | 0 | Not available |
+| instagram / features | 1 | 0 | 1 | averageTimeWatched=1.44, comments=0, reach=15, reactions=0, saves=0, shares=0, totalTimeWatched=0.36, views=15 |
 | instagram / introduction | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
 | instagram / morning_choice | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
-| instagram / morning_features | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
-| instagram / morning_lifestyle | 0 | 1 | 0 | Not available |
+| instagram / morning_features | 1 | 1 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
+| instagram / morning_lifestyle | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
 | instagram / morning_ritual | 1 | 1 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
-| instagram / night_choice | 1 | 0 | 0 | Not available |
+| instagram / night_choice | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
 | instagram / night_features | 1 | 0 | 1 | comments=0, follows=0, reach=0, reactions=0, saves=0, shares=0, views=0 |
 | instagram / night_lifestyle | 0 | 1 | 0 | Not available |
 | instagram / night_ritual | 1 | 1 | 1 | comments=0, follows=0, reach=0, reactions=1, saves=0, shares=0, views=0 |
