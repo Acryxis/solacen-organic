@@ -12,7 +12,7 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.453Z",
       "metrics": [
         {
           "type": "reactions",
@@ -121,7 +121,7 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.440Z",
       "metrics": [
         {
           "type": "reactions",
@@ -234,7 +234,7 @@
       "sentAt": "2026-11-24T19:16:06.815Z",
       "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.457Z",
       "metrics": [
         {
           "type": "reactions",
@@ -339,13 +339,13 @@
       "queue_id": "s5o02",
       "family": "features",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T19:15:00.000Z",
       "id": "6b033ca8d5eabfb8ccd094a4",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nExplore S5 through the link in our profile.\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T19:15:49.123Z",
+      "externalLink": "https://www.instagram.com/reel/DgLQgt1PF5Z/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:04:08.312Z",
       "metrics": null,
@@ -357,15 +357,15 @@
       "queue_id": "s5o02",
       "family": "features",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T19:35:00.000Z",
       "id": "6b033d0cd5eabfb8ccd0c5d2",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "A little technology. A quieter ritual.\n\nWarmth. Massage. Bluetooth audio. A digital display. Swipe for the S5 colours and choose the version that fits your evening.\n\nSee the features and choose your colour on the product page.\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o02&variant=49549901398254",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T19:35:10.241Z",
+      "externalLink": "https://www.facebook.com/reel/1664082515188318/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.782Z",
+      "metricsUpdatedAt": "2026-11-25T19:36:25.886Z",
       "metrics": [
         {
           "type": "reactions",
@@ -707,7 +707,7 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.449Z",
       "metrics": [
         {
           "type": "reactions",
@@ -816,7 +816,7 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.447Z",
       "metrics": [
         {
           "type": "reactions",
@@ -925,7 +925,7 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.455Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1034,7 +1034,7 @@
       "sentAt": "2026-11-24T13:15:49.185Z",
       "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.445Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1143,7 +1143,7 @@
       "sentAt": "2026-11-24T23:15:31.863Z",
       "externalLink": "https://www.instagram.com/p/DgJHMSVjODd/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.438Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1252,7 +1252,7 @@
       "sentAt": "2026-11-25T02:15:38.424Z",
       "externalLink": "https://www.instagram.com/p/DgJbzYHpTkA/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.432Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1361,7 +1361,7 @@
       "sentAt": "2026-11-25T13:15:53.373Z",
       "externalLink": "https://www.instagram.com/p/DgKnWr0l9ro/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T15:44:45.567Z",
+      "metricsUpdatedAt": "2026-11-25T18:46:21.435Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1462,13 +1462,13 @@
       "queue_id": "d03_evening_pageglow",
       "family": "evening_choice",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T23:15:00.000Z",
       "id": "6b05e5c3bc1fcb6588e54643",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Your next chapter deserves its own light.\n\nThe slower part of the day can be simple.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWhich listed feature would you use most?\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T23:15:46.092Z",
+      "externalLink": "https://www.instagram.com/p/DgLsAsoJQX6/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-24T19:30:11.560Z",
       "metrics": null,
@@ -1478,15 +1478,15 @@
       "queue_id": "d03_evening_pageglow",
       "family": "evening_choice",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-25T23:35:00.000Z",
       "id": "6b05e5c5d8711eba6d94773d",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Your next chapter deserves its own light.\n\nThe slower part of the day can be simple.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nWould this fit your own routine?\nExplore PageGlow: https://solacen.store/products/solacen-pageglow-rechargeable-reading-light?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d03_evening_pageglow&variant=49933805027566",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-25T23:35:10.862Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124241929501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-24T19:30:13.586Z",
+      "metricsUpdatedAt": "2026-11-25T23:36:13.279Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1530,13 +1530,13 @@
       "queue_id": "d03_night_lumanest",
       "family": "night_choice",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T02:15:00.000Z",
       "id": "6b05e5c6d8711eba6d947b3a",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "What does your quieter room sound like?\n\nA small detail for the last part of your evening.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nWhich listed feature would you use most?\nExplore LumaNest: link in bio.\n\n#Solacen #EveningRoutine #LumaNest",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T02:15:37.693Z",
+      "externalLink": "https://www.instagram.com/p/DgMAmKPjZtj/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-24T19:30:14.876Z",
       "metrics": null,
@@ -1546,15 +1546,15 @@
       "queue_id": "d03_night_lumanest",
       "family": "night_choice",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T02:35:00.000Z",
       "id": "6b067177608549ccf264c012",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "What does your quieter room sound like?\n\nA small detail for the last part of your evening.\n\nLumaNest combines ten built-in sounds with colourful light and 15, 30 or 60-minute timers. The selected Q2 version has on-device controls, with no remote.\n\nWould this fit your own routine?\nExplore LumaNest: https://solacen.store/products/colorful-light-sleep-sound-machine-with-white-noise?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d03_night_lumanest&variant=49572436312302",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T02:35:06.649Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124266097501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T05:26:15.986Z",
+      "metricsUpdatedAt": "2026-11-26T02:36:09.639Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1797,8 +1797,212 @@
         }
       ],
       "error": null
+    },
+    "ef979a66f1841600beae44b036098ff448f821dd8bd86f317684abed5ed23be0": {
+      "queue_id": "d05_morning_easeknead",
+      "family": "morning_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T13:15:00.000Z",
+      "id": "6b07bcdb07071a6067567022",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A hands-on pause in a busy day.\n\nSmall comforts can have a place in your morning, too.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSave this idea for your own routine.\nExplore EaseKnead: link in bio.\n\n#Solacen #EveningRoutine #EaseKnead",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:11.856Z",
+      "metrics": null,
+      "error": null
+    },
+    "fd6442959ac6ea7a9d3d5a051bee0636851ccd5c22242b43a045fc3248e888e3": {
+      "queue_id": "d05_morning_easeknead",
+      "family": "morning_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T13:35:00.000Z",
+      "id": "6b07bcdca791bea1b25529c7",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A hands-on pause in a busy day.\n\nSmall comforts can have a place in your morning, too.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSee the features and selected version.\nExplore EaseKnead: https://solacen.store/products/electric-head-scalp-massager-red-light-body-massage-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_morning_easeknead&variant=49572431495406",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:12.657Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "b8bdeb8fab629cab747fdb76780bcf63163611af96eb4078d716215a4fd6791d": {
+      "queue_id": "d05_evening_lumarest",
+      "family": "evening_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T23:15:00.000Z",
+      "id": "6b07bcde07071a6067567311",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A little more intention in your skincare ritual.\n\nThe slower part of the day can be simple.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSave this idea for your own routine.\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:14.276Z",
+      "metrics": null,
+      "error": null
+    },
+    "6e141f4470c66303a636c2d7f32c4762e6b9d7e6e6d884b26b79c209c3add9d3": {
+      "queue_id": "d05_evening_lumarest",
+      "family": "evening_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-27T23:35:00.000Z",
+      "id": "6b07bcdea791bea1b2552d21",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A little more intention in your skincare ritual.\n\nThe slower part of the day can be simple.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSee the features and selected version.\nExplore LumaRest: https://solacen.store/products/photon-therapy-led-facial-mask-with-neck-care?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_evening_lumarest&variant=49599480234222",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:14.964Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "1093517f5b275a8d8541b6d35796fb0d4b1b753f8f456fc2fedcd6196cc0d533": {
+      "queue_id": "d05_night_quietweight",
+      "family": "night_ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T02:15:00.000Z",
+      "id": "6b07bce007071a6067567718",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSave this idea for your own routine.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:16.191Z",
+      "metrics": null,
+      "error": null
+    },
+    "9b0c1799c4db25e57b8763932171a220ac1a9237edf059da455b5477b3fc841e": {
+      "queue_id": "d05_night_quietweight",
+      "family": "night_ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T02:35:00.000Z",
+      "id": "6b07bce007071a60675677ce",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the features and selected version.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_night_quietweight&variant=49572435296494",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-26T05:00:16.965Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-25T18:38:50.024514+00:00"
+  "last_run_utc": "2026-11-26T05:00:09.815723+00:00"
 }
