@@ -12,7 +12,7 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.698Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
       "metrics": [
         {
           "type": "reactions",
@@ -69,7 +69,7 @@
       "sentAt": "2026-11-22T19:10:41.722Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123203737501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -121,7 +121,7 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.708Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
       "metrics": [
         {
           "type": "reactions",
@@ -180,7 +180,7 @@
       "sentAt": "2026-11-23T19:35:09.072Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123544807501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -234,7 +234,7 @@
       "sentAt": "2026-11-24T19:16:06.815Z",
       "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.694Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -293,7 +293,7 @@
       "sentAt": "2026-11-24T19:35:12.393Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123814411501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -347,7 +347,7 @@
       "sentAt": "2026-11-25T19:15:49.123Z",
       "externalLink": "https://www.instagram.com/reel/DgLQgt1PF5Z/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.696Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -366,7 +366,7 @@
         },
         {
           "type": "views",
-          "value": 15,
+          "value": 16,
           "unit": "count"
         },
         {
@@ -381,17 +381,17 @@
         },
         {
           "type": "totalTimeWatched",
-          "value": 0.36,
+          "value": 0.4,
           "unit": "count"
         },
         {
           "type": "averageTimeWatched",
-          "value": 1.44,
+          "value": 1.49,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 15,
+          "value": 16,
           "unit": "count"
         }
       ],
@@ -411,7 +411,7 @@
       "sentAt": "2026-11-25T19:35:10.241Z",
       "externalLink": "https://www.facebook.com/reel/1664082515188318/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.540Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -465,25 +465,7 @@
       "sentAt": "2026-11-26T19:15:47.513Z",
       "externalLink": "https://www.instagram.com/reel/DgN1S6uRkHV/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:04:08.750Z",
-      "metrics": null,
-      "error": null,
-      "product_key": "emberglow",
-      "format": "reel"
-    },
-    "ec4b7aee4a7f8376775443b4438e3cd3427d7a0119695e196be3005c0dac50f4": {
-      "queue_id": "emberglow01",
-      "family": "ritual",
-      "platform": "facebook",
-      "status": "sent",
-      "dueAt": "2026-11-26T19:35:00.000Z",
-      "id": "6b033d0ccc364169c17a4a97",
-      "channelId": "6b033c308541f09ecb6897b8",
-      "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhat would you add to your evening corner?\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=emberglow01&variant=49572433658094",
-      "sentAt": "2026-11-26T19:35:08.700Z",
-      "externalLink": "https://www.facebook.com/reel/2244737349785591/",
-      "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T19:36:22.813Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -501,13 +483,77 @@
           "unit": "percentage"
         },
         {
-          "type": "impressions",
+          "type": "views",
+          "value": 14,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
           "value": 0,
           "unit": "count"
         },
         {
-          "type": "reach",
+          "type": "saves",
           "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "totalTimeWatched",
+          "value": 0.36,
+          "unit": "count"
+        },
+        {
+          "type": "averageTimeWatched",
+          "value": 1.53,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 14,
+          "unit": "count"
+        }
+      ],
+      "error": null,
+      "product_key": "emberglow",
+      "format": "reel"
+    },
+    "ec4b7aee4a7f8376775443b4438e3cd3427d7a0119695e196be3005c0dac50f4": {
+      "queue_id": "emberglow01",
+      "family": "ritual",
+      "platform": "facebook",
+      "status": "sent",
+      "dueAt": "2026-11-26T19:35:00.000Z",
+      "id": "6b033d0ccc364169c17a4a97",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhat would you add to your evening corner?\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=emberglow01&variant=49572433658094",
+      "sentAt": "2026-11-26T19:35:08.700Z",
+      "externalLink": "https://www.facebook.com/reel/2244737349785591/",
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 2,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0.98,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 204,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 194,
           "unit": "count"
         },
         {
@@ -753,7 +799,7 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.725Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
       "metrics": [
         {
           "type": "reactions",
@@ -810,7 +856,7 @@
       "sentAt": "2026-11-23T13:35:11.050Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123422413501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -862,7 +908,7 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.691Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
       "metrics": [
         {
           "type": "reactions",
@@ -919,7 +965,7 @@
       "sentAt": "2026-11-23T23:35:09.422Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123587863501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -971,7 +1017,7 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.689Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1028,7 +1074,7 @@
       "sentAt": "2026-11-24T02:35:11.189Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123612877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1080,7 +1126,7 @@
       "sentAt": "2026-11-24T13:15:49.185Z",
       "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.713Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1137,7 +1183,7 @@
       "sentAt": "2026-11-24T13:35:10.257Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123728473501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.056Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1189,7 +1235,7 @@
       "sentAt": "2026-11-24T23:15:31.863Z",
       "externalLink": "https://www.instagram.com/p/DgJHMSVjODd/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.700Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1246,7 +1292,7 @@
       "sentAt": "2026-11-24T23:35:08.025Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123863755501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1298,7 +1344,7 @@
       "sentAt": "2026-11-25T02:15:38.424Z",
       "externalLink": "https://www.instagram.com/p/DgJbzYHpTkA/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.710Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1355,7 +1401,7 @@
       "sentAt": "2026-11-25T02:35:13.843Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122123891655501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1374,12 +1420,12 @@
         },
         {
           "type": "impressions",
-          "value": 4,
+          "value": 6,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 1,
+          "value": 2,
           "unit": "count"
         },
         {
@@ -1407,7 +1453,7 @@
       "sentAt": "2026-11-25T13:15:53.373Z",
       "externalLink": "https://www.instagram.com/p/DgKnWr0l9ro/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.702Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1464,7 +1510,7 @@
       "sentAt": "2026-11-25T13:35:11.506Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124126447501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.541Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1516,7 +1562,7 @@
       "sentAt": "2026-11-25T23:15:46.092Z",
       "externalLink": "https://www.instagram.com/p/DgLsAsoJQX6/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.704Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1573,7 +1619,7 @@
       "sentAt": "2026-11-25T23:35:10.862Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124241929501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.540Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1625,7 +1671,7 @@
       "sentAt": "2026-11-26T02:15:37.693Z",
       "externalLink": "https://www.instagram.com/p/DgMAmKPjZtj/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.722Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1682,7 +1728,7 @@
       "sentAt": "2026-11-26T02:35:06.649Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124266097501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.540Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1734,7 +1780,7 @@
       "sentAt": "2026-11-26T13:15:41.692Z",
       "externalLink": "https://www.instagram.com/p/DgNMI1BF1yt/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T18:47:23.706Z",
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1791,7 +1837,7 @@
       "sentAt": "2026-11-26T13:35:09.064Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124391527501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T15:02:43.540Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1843,8 +1889,49 @@
       "sentAt": "2026-11-26T23:15:38.130Z",
       "externalLink": "https://www.instagram.com/p/DgOQysbGpmX/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T05:26:17.395Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "467d679017e2a40d48283815f9f7fb0899e8d5cd2e3f5a034eff96692f8f8b79": {
@@ -1859,7 +1946,7 @@
       "sentAt": "2026-11-26T23:35:05.587Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124487809501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T23:36:09.014Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1911,8 +1998,49 @@
       "sentAt": "2026-11-27T02:15:39.499Z",
       "externalLink": "https://www.instagram.com/p/DgOlZbljJCE/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T18:38:51.222Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "61627d7ba87e5b0a07a32c387d0179717ec22565ac7f676b8f5bf274e3dddddc": {
@@ -1927,7 +2055,7 @@
       "sentAt": "2026-11-27T02:35:07.921Z",
       "externalLink": "https://www.facebook.com/122123202141501800/posts/122124518877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T02:36:10.504Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1971,31 +2099,72 @@
       "queue_id": "d05_morning_easeknead",
       "family": "morning_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T13:15:00.000Z",
       "id": "6b07bcdb07071a6067567022",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "A hands-on pause in a busy day.\n\nSmall comforts can have a place in your morning, too.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSave this idea for your own routine.\nExplore EaseKnead: link in bio.\n\n#Solacen #EveningRoutine #EaseKnead",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T13:15:40.927Z",
+      "externalLink": "https://www.instagram.com/p/DgPw7TFlO_3/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T05:00:11.856Z",
-      "metrics": null,
+      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
       "error": null
     },
     "fd6442959ac6ea7a9d3d5a051bee0636851ccd5c22242b43a045fc3248e888e3": {
       "queue_id": "d05_morning_easeknead",
       "family": "morning_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T13:35:00.000Z",
       "id": "6b07bcdca791bea1b25529c7",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "A hands-on pause in a busy day.\n\nSmall comforts can have a place in your morning, too.\n\nEaseKnead is a rechargeable handheld scalp and body massager with four intensity levels. Start gently and follow its included instructions.\n\nSee the features and selected version.\nExplore EaseKnead: https://solacen.store/products/electric-head-scalp-massager-red-light-body-massage-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_morning_easeknead&variant=49572431495406",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T13:35:09.771Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124633021501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T05:00:12.657Z",
+      "metricsUpdatedAt": "2026-11-27T14:02:55.055Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2442,8 +2611,76 @@
         }
       ],
       "error": null
+    },
+    "6c32704cb6b55ed8fa4ef305b3b1dacf9736c697bf7ddb7014662ca674dc2cd8": {
+      "queue_id": "d07_evening_emberglow",
+      "family": "evening_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T23:15:00.000Z",
+      "id": "6b09c797f34d25de1e37521e",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "The overhead light can take a break.\n\nMake room for a corner that feels like yours.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhich listed feature would you use most?\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T18:10:31.388Z",
+      "metrics": null,
+      "error": null
+    },
+    "36c0591da3e4b663e9426b93ab2d9fed868fe765a46c136c5d52e4eccdd636e2": {
+      "queue_id": "d07_evening_emberglow",
+      "family": "evening_choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T23:35:00.000Z",
+      "id": "6b09c7972b8a129ed818d870",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "The overhead light can take a break.\n\nMake room for a corner that feels like yours.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWould this fit your own routine?\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d07_evening_emberglow&variant=49572433658094",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T18:10:31.965Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-27T05:01:51.646075+00:00"
+  "last_run_utc": "2026-11-27T18:10:29.968641+00:00"
 }
