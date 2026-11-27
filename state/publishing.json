@@ -12,7 +12,7 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.647Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.698Z",
       "metrics": [
         {
           "type": "reactions",
@@ -121,7 +121,7 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.708Z",
       "metrics": [
         {
           "type": "reactions",
@@ -234,7 +234,7 @@
       "sentAt": "2026-11-24T19:16:06.815Z",
       "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.694Z",
       "metrics": [
         {
           "type": "reactions",
@@ -347,7 +347,7 @@
       "sentAt": "2026-11-25T19:15:49.123Z",
       "externalLink": "https://www.instagram.com/reel/DgLQgt1PF5Z/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.696Z",
       "metrics": [
         {
           "type": "reactions",
@@ -457,13 +457,13 @@
       "queue_id": "emberglow01",
       "family": "ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T19:15:00.000Z",
       "id": "6b033ca8d864a01105ea3574",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nSave this for your next quiet evening.\nExplore EmberGlow: link in bio.\n\n#Solacen #EveningRoutine #EmberGlow",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T19:15:47.513Z",
+      "externalLink": "https://www.instagram.com/reel/DgN1S6uRkHV/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:04:08.750Z",
       "metrics": null,
@@ -475,15 +475,15 @@
       "queue_id": "emberglow01",
       "family": "ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T19:35:00.000Z",
       "id": "6b033d0ccc364169c17a4a97",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Turn down the day. Keep the glow.\n\nEmberGlow brings amber and red light into a compact bedside lamp with dimming. Bases, clocks and remote controls vary by selected version.\n\nWhat would you add to your evening corner?\nExplore EmberGlow: https://solacen.store/products/red-light-therapy-lamp-for-sleep-improvement?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=emberglow01&variant=49572433658094",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T19:35:08.700Z",
+      "externalLink": "https://www.facebook.com/reel/2244737349785591/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:48.972Z",
+      "metricsUpdatedAt": "2026-11-26T19:36:22.813Z",
       "metrics": [
         {
           "type": "reactions",
@@ -753,7 +753,7 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.725Z",
       "metrics": [
         {
           "type": "reactions",
@@ -862,7 +862,7 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.691Z",
       "metrics": [
         {
           "type": "reactions",
@@ -971,7 +971,7 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.689Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1080,7 +1080,7 @@
       "sentAt": "2026-11-24T13:15:49.185Z",
       "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.713Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1189,7 +1189,7 @@
       "sentAt": "2026-11-24T23:15:31.863Z",
       "externalLink": "https://www.instagram.com/p/DgJHMSVjODd/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.700Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1298,7 +1298,7 @@
       "sentAt": "2026-11-25T02:15:38.424Z",
       "externalLink": "https://www.instagram.com/p/DgJbzYHpTkA/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.710Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1407,7 +1407,7 @@
       "sentAt": "2026-11-25T13:15:53.373Z",
       "externalLink": "https://www.instagram.com/p/DgKnWr0l9ro/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.702Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1516,7 +1516,7 @@
       "sentAt": "2026-11-25T23:15:46.092Z",
       "externalLink": "https://www.instagram.com/p/DgLsAsoJQX6/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.704Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1625,7 +1625,7 @@
       "sentAt": "2026-11-26T02:15:37.693Z",
       "externalLink": "https://www.instagram.com/p/DgMAmKPjZtj/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.722Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1734,7 +1734,7 @@
       "sentAt": "2026-11-26T13:15:41.692Z",
       "externalLink": "https://www.instagram.com/p/DgNMI1BF1yt/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T14:45:14.646Z",
+      "metricsUpdatedAt": "2026-11-26T18:47:23.706Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1835,13 +1835,13 @@
       "queue_id": "d04_evening_warmease",
       "family": "evening_lifestyle",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T23:15:00.000Z",
       "id": "6b06717922dfb7833a818571",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "A warming wrap for a slower moment.\n\nThe slower part of the day can be simple.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nExplore the selected version through our profile.\nExplore WarmEase: link in bio.\n\n#Solacen #EveningRoutine #WarmEase",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T23:15:38.130Z",
+      "externalLink": "https://www.instagram.com/p/DgOQysbGpmX/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-25T05:26:17.395Z",
       "metrics": null,
@@ -1851,15 +1851,15 @@
       "queue_id": "d04_evening_warmease",
       "family": "evening_lifestyle",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-26T23:35:00.000Z",
       "id": "6b067179608549ccf264c064",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "A warming wrap for a slower moment.\n\nThe slower part of the day can be simple.\n\nWarmEase is a flexible heated wrap for shoulder or knee use, with adjustable warmth and vibration. Follow its fitting instructions and choose a comfortable setting.\n\nExplore the current product information.\nExplore WarmEase: https://solacen.store/products/heated-massage-shoulder-support?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d04_evening_warmease&variant=49579082449134",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-26T23:35:05.587Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124487809501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T05:26:17.675Z",
+      "metricsUpdatedAt": "2026-11-26T23:36:09.014Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1903,13 +1903,13 @@
       "queue_id": "d04_night_quietweight",
       "family": "night_lifestyle",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T02:15:00.000Z",
       "id": "6b072b3b35285a597b590d32",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nExplore the selected version through our profile.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T02:15:39.499Z",
+      "externalLink": "https://www.instagram.com/p/DgOlZbljJCE/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-25T18:38:51.222Z",
       "metrics": null,
@@ -1919,15 +1919,15 @@
       "queue_id": "d04_night_quietweight",
       "family": "night_lifestyle",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T02:35:00.000Z",
       "id": "6b072b3bf5be12bac95e3915",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nExplore the current product information.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d04_night_quietweight&variant=49572435296494",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T02:35:07.921Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124518877501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-25T18:38:51.682Z",
+      "metricsUpdatedAt": "2026-11-27T02:36:10.504Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2238,8 +2238,212 @@
         }
       ],
       "error": null
+    },
+    "f0e5436f797e7ea0c018d57ad51bad025ab4366613864326a788dd9bb72a7645": {
+      "queue_id": "d06_evening_lumarest",
+      "family": "evening_features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T23:15:00.000Z",
+      "id": "6b090ec0e94385a8fd756105",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A little more intention in your skincare ritual.\n\nMake room for a corner that feels like yours.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSee the product details through our profile.\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:52.843Z",
+      "metrics": null,
+      "error": null
+    },
+    "124b88f0369100cc632c4f4c2a749259220ff31a27b9310eaf223156ac538094": {
+      "queue_id": "d06_evening_lumarest",
+      "family": "evening_features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-28T23:35:00.000Z",
+      "id": "6b090ec1049983dcfb8c0661",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A little more intention in your skincare ritual.\n\nMake room for a corner that feels like yours.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nFind the details before choosing your setup.\nExplore LumaRest: https://solacen.store/products/photon-therapy-led-facial-mask-with-neck-care?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d06_evening_lumarest&variant=49599480234222",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:53.583Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "71677a1c1d9abf103c2596e92261eb2be0e6a920aa1db2a5bb9319862fb58b18": {
+      "queue_id": "d06_night_nocturne",
+      "family": "night_features",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T02:15:00.000Z",
+      "id": "6b090ec2658222306ce2dac0",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "One sleep mask. Your favourite audio.\n\nChoose the atmosphere that feels comfortable to you.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSee the product details through our profile.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:54.422Z",
+      "metrics": null,
+      "error": null
+    },
+    "9d7c102e9c878d7625e774e41e2c6f128285bee008288a0cbc34d82603ed66e0": {
+      "queue_id": "d06_night_nocturne",
+      "family": "night_features",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T02:35:00.000Z",
+      "id": "6b090ec2049983dcfb8c0698",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "One sleep mask. Your favourite audio.\n\nChoose the atmosphere that feels comfortable to you.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nFind the details before choosing your setup.\nExplore Nocturne: https://solacen.store/products/3d-stereo-sleep-mask-with-bluetooth-headphones?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d06_night_nocturne&variant=49572439032046",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:54.804Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "8df189075384b372e817ee1cc7b3bcd04a010b068b8334996981b25fa21ef8bf": {
+      "queue_id": "d07_morning_dawnrise",
+      "family": "morning_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T13:15:00.000Z",
+      "id": "6b090ec3e94385a8fd75619d",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Meet a softer bedside morning.\n\nKeep a little space before the day gets busy.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nWhich listed feature would you use most?\nExplore DawnRise: link in bio.\n\n#Solacen #EveningRoutine #DawnRise",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:55.640Z",
+      "metrics": null,
+      "error": null
+    },
+    "e4484e7bcb5387f8497115616ddf1e1b0f5547ed58b5b3c3978020a437d07337": {
+      "queue_id": "d07_morning_dawnrise",
+      "family": "morning_choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-29T13:35:00.000Z",
+      "id": "6b090ec4062ed764a8e59ed8",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Meet a softer bedside morning.\n\nKeep a little space before the day gets busy.\n\nDawnRise combines sunrise-style lighting, a digital clock display and colourful ambient light. This selected model is USB-powered.\n\nWould this fit your own routine?\nExplore DawnRise: https://solacen.store/products/solacen-dawnrise-sunrise-alarm-clock?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d07_morning_dawnrise&variant=49933785891054",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-27T05:01:56.215Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-26T18:24:50.131778+00:00"
+  "last_run_utc": "2026-11-27T05:01:51.646075+00:00"
 }
