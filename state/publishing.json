@@ -12,7 +12,7 @@
       "sentAt": "2026-11-22T19:10:49.303Z",
       "externalLink": "https://www.instagram.com/p/DgDhl-JF1b-/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.592Z",
       "metrics": [
         {
           "type": "reactions",
@@ -121,7 +121,7 @@
       "sentAt": "2026-11-23T19:15:52.376Z",
       "externalLink": "https://www.instagram.com/p/DgGG-JyFzcI/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.603Z",
       "metrics": [
         {
           "type": "reactions",
@@ -234,7 +234,7 @@
       "sentAt": "2026-11-24T19:16:06.815Z",
       "externalLink": "https://www.instagram.com/p/DgIrytNF6G_/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.581Z",
       "metrics": [
         {
           "type": "reactions",
@@ -347,7 +347,7 @@
       "sentAt": "2026-11-25T19:15:49.123Z",
       "externalLink": "https://www.instagram.com/reel/DgLQgt1PF5Z/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.585Z",
       "metrics": [
         {
           "type": "reactions",
@@ -465,7 +465,7 @@
       "sentAt": "2026-11-26T19:15:47.513Z",
       "externalLink": "https://www.instagram.com/reel/DgN1S6uRkHV/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.589Z",
       "metrics": [
         {
           "type": "reactions",
@@ -484,7 +484,7 @@
         },
         {
           "type": "views",
-          "value": 14,
+          "value": 15,
           "unit": "count"
         },
         {
@@ -499,17 +499,17 @@
         },
         {
           "type": "totalTimeWatched",
-          "value": 0.36,
+          "value": 0.37,
           "unit": "count"
         },
         {
           "type": "averageTimeWatched",
-          "value": 1.53,
+          "value": 1.47,
           "unit": "count"
         },
         {
           "type": "reach",
-          "value": 14,
+          "value": 15,
           "unit": "count"
         }
       ],
@@ -575,13 +575,13 @@
       "queue_id": "s5o03",
       "family": "choice",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T19:15:00.000Z",
       "id": "6b033ca9d5eabfb8ccd094ea",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nWhich would you choose for your bedside table?\nExplore S5: link in bio.\n\n#Solacen #EveningRoutine #SootheSight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T19:15:35.346Z",
+      "externalLink": "https://www.instagram.com/p/DgQaHegDCtK/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-22T19:04:09.122Z",
       "metrics": null,
@@ -593,15 +593,15 @@
       "queue_id": "s5o03",
       "family": "choice",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T19:35:00.000Z",
       "id": "6b033d0dc72676f5e9525455",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Pink, white or black?\n\nThree S5 colours, the same listed S5 features. Pick a colour that feels at home in your space.\n\nPink, white or black—which fits your room?\n\nExplore S5: https://solacen.store/products/bluetooth-eye-massager-with-heat-therapy?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=s5o03&variant=49549901398254",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T19:35:09.358Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124707385501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-22T19:05:49.240Z",
+      "metricsUpdatedAt": "2026-11-27T19:36:12.528Z",
       "metrics": [
         {
           "type": "reactions",
@@ -799,7 +799,7 @@
       "sentAt": "2026-11-23T13:15:35.903Z",
       "externalLink": "https://www.instagram.com/p/DgFdvdFlynu/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.587Z",
       "metrics": [
         {
           "type": "reactions",
@@ -908,7 +908,7 @@
       "sentAt": "2026-11-23T23:15:31.548Z",
       "externalLink": "https://www.instagram.com/p/DgGiZMwjDfg/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.187Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.601Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1017,7 +1017,7 @@
       "sentAt": "2026-11-24T02:15:30.697Z",
       "externalLink": "https://www.instagram.com/p/DgG2_jNDFq2/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.579Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1126,7 +1126,7 @@
       "sentAt": "2026-11-24T13:15:49.185Z",
       "externalLink": "https://www.instagram.com/p/DgICjwUFzIG/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.626Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1235,7 +1235,7 @@
       "sentAt": "2026-11-24T23:15:31.863Z",
       "externalLink": "https://www.instagram.com/p/DgJHMSVjODd/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.597Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1344,7 +1344,7 @@
       "sentAt": "2026-11-25T02:15:38.424Z",
       "externalLink": "https://www.instagram.com/p/DgJbzYHpTkA/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.618Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1453,7 +1453,7 @@
       "sentAt": "2026-11-25T13:15:53.373Z",
       "externalLink": "https://www.instagram.com/p/DgKnWr0l9ro/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.621Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1562,7 +1562,7 @@
       "sentAt": "2026-11-25T23:15:46.092Z",
       "externalLink": "https://www.instagram.com/p/DgLsAsoJQX6/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.605Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1671,7 +1671,7 @@
       "sentAt": "2026-11-26T02:15:37.693Z",
       "externalLink": "https://www.instagram.com/p/DgMAmKPjZtj/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.631Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1780,7 +1780,7 @@
       "sentAt": "2026-11-26T13:15:41.692Z",
       "externalLink": "https://www.instagram.com/p/DgNMI1BF1yt/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.591Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1889,7 +1889,7 @@
       "sentAt": "2026-11-26T23:15:38.130Z",
       "externalLink": "https://www.instagram.com/p/DgOQysbGpmX/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.583Z",
       "metrics": [
         {
           "type": "reactions",
@@ -1998,7 +1998,7 @@
       "sentAt": "2026-11-27T02:15:39.499Z",
       "externalLink": "https://www.instagram.com/p/DgOlZbljJCE/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.624Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2107,7 +2107,7 @@
       "sentAt": "2026-11-27T13:15:40.927Z",
       "externalLink": "https://www.instagram.com/p/DgPw7TFlO_3/",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-27T13:46:01.186Z",
+      "metricsUpdatedAt": "2026-11-27T18:49:41.599Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2208,13 +2208,13 @@
       "queue_id": "d05_evening_lumarest",
       "family": "evening_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T23:15:00.000Z",
       "id": "6b07bcde07071a6067567311",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "A little more intention in your skincare ritual.\n\nThe slower part of the day can be simple.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSave this idea for your own routine.\nExplore LumaRest: link in bio.\n\n#Solacen #EveningRoutine #LumaRest",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T23:15:38.152Z",
+      "externalLink": "https://www.instagram.com/p/DgQ1lVaDbiF/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-26T05:00:14.276Z",
       "metrics": null,
@@ -2224,15 +2224,15 @@
       "queue_id": "d05_evening_lumarest",
       "family": "evening_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-27T23:35:00.000Z",
       "id": "6b07bcdea791bea1b2552d21",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "A little more intention in your skincare ritual.\n\nThe slower part of the day can be simple.\n\nLumaRest offers a face mask or a separate face-and-neck set. The panels connect to a controller by cable. Check kit contents, instructions and destination availability before ordering.\n\nSee the features and selected version.\nExplore LumaRest: https://solacen.store/products/photon-therapy-led-facial-mask-with-neck-care?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_evening_lumarest&variant=49599480234222",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-27T23:35:06.806Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124751551501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T05:00:14.964Z",
+      "metricsUpdatedAt": "2026-11-27T23:36:09.994Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2276,13 +2276,13 @@
       "queue_id": "d05_night_quietweight",
       "family": "night_ritual",
       "platform": "instagram",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-28T02:15:00.000Z",
       "id": "6b07bce007071a6067567718",
       "channelId": "6b0337c98541f09ecb681a8b",
       "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSave this idea for your own routine.\nExplore QuietWeight: link in bio.\n\n#Solacen #EveningRoutine #QuietWeight",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-28T02:15:31.657Z",
+      "externalLink": "https://www.instagram.com/p/DgRKLZRlFLW/",
       "schedulingType": "automatic",
       "metricsUpdatedAt": "2026-11-26T05:00:16.191Z",
       "metrics": null,
@@ -2292,15 +2292,15 @@
       "queue_id": "d05_night_quietweight",
       "family": "night_ritual",
       "platform": "facebook",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-11-28T02:35:00.000Z",
       "id": "6b07bce007071a60675677ce",
       "channelId": "6b033c308541f09ecb6897b8",
       "text": "Put a little stillness on your list.\n\nA small detail for the last part of your evening.\n\nQuietWeight combines a gently weighted design with light-blocking coverage. Keep it close for a quiet break; follow the care instructions.\n\nSee the features and selected version.\nExplore QuietWeight: https://solacen.store/products/gravity-eye-mask-for-sleep-and-relaxation?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d05_night_quietweight&variant=49572435296494",
-      "sentAt": null,
-      "externalLink": null,
+      "sentAt": "2026-11-28T02:35:08.240Z",
+      "externalLink": "https://www.facebook.com/122123202141501800/posts/122124771657501800",
       "schedulingType": "automatic",
-      "metricsUpdatedAt": "2026-11-26T05:00:16.965Z",
+      "metricsUpdatedAt": "2026-11-28T02:36:12.244Z",
       "metrics": [
         {
           "type": "reactions",
@@ -2679,8 +2679,212 @@
         }
       ],
       "error": null
+    },
+    "61328a80d75935309eea4875eba6b2fc14d315f37d1c21a0266e634a0cd987c0": {
+      "queue_id": "d07_night_hushwave",
+      "family": "night_choice",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T02:15:00.000Z",
+      "id": "6b0a5c032a2e4f66cafd1bed",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "An alternative to wearing earbuds at bedtime.\n\nChoose the atmosphere that feels comfortable to you.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nWhich listed feature would you use most?\nExplore HushWave: link in bio.\n\n#Solacen #EveningRoutine #HushWave",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:47.971Z",
+      "metrics": null,
+      "error": null
+    },
+    "0255556ddf6890bcb39811fb7c4fe32f7f538d57db4aa09b70dda0bd1cb6c3cc": {
+      "queue_id": "d07_night_hushwave",
+      "family": "night_choice",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T02:35:00.000Z",
+      "id": "6b0a5c04eada83daa6c6292a",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "An alternative to wearing earbuds at bedtime.\n\nChoose the atmosphere that feels comfortable to you.\n\nHushWave is designed for under-pillow listening, with Bluetooth, TF-card playback and an auto-off timer. Sound varies with your pillow and listening setup.\n\nWould this fit your own routine?\nExplore HushWave: https://solacen.store/products/bone-conduction-under-pillow-bluetooth-speaker?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d07_night_hushwave&variant=49572440244462",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:48.254Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "746e78b50fb459096272e216b469c2cd6f93fbfa53091da4f2310aebed736ac6": {
+      "queue_id": "d08_morning_pageglow",
+      "family": "morning_lifestyle",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T13:15:00.000Z",
+      "id": "6b0a5c04eab081a3f5238483",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "A little light, right where you read.\n\nKeep a little space before the day gets busy.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nExplore the selected version through our profile.\nExplore PageGlow: link in bio.\n\n#Solacen #EveningRoutine #PageGlow",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:48.718Z",
+      "metrics": null,
+      "error": null
+    },
+    "6854a74d24c505def941a8dfd32e17177f03d0e9517b093b32384967a561c017": {
+      "queue_id": "d08_morning_pageglow",
+      "family": "morning_lifestyle",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T13:35:00.000Z",
+      "id": "6b0a5c0441454797eaeeae8b",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "A little light, right where you read.\n\nKeep a little space before the day gets busy.\n\nPageGlow clips onto a book, desk or headboard. Choose warm, white or cool lighting and position the flexible neck for your reading corner.\n\nExplore the current product information.\nExplore PageGlow: https://solacen.store/products/solacen-pageglow-rechargeable-reading-light?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=d08_morning_pageglow&variant=49933805027566",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:48.930Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
+    },
+    "2fd0ab38f16f8e4243edbffb4046c094f5ef5b76a120c861ca8d51cfc36bec27": {
+      "queue_id": "nocturne01",
+      "family": "ritual",
+      "platform": "instagram",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T19:15:00.000Z",
+      "id": "6b0a5c052a2e4f66cafd1c45",
+      "channelId": "6b0337c98541f09ecb681a8b",
+      "text": "Your evening audio. A darker space.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nSave this for your next quiet evening.\nExplore Nocturne: link in bio.\n\n#Solacen #EveningRoutine #Nocturne",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:49.318Z",
+      "metrics": null,
+      "error": null
+    },
+    "d30eb97d021a2e06d325ecbd1ed29eecef1f2c888ab9164e75e8f908fa27ef55": {
+      "queue_id": "nocturne01",
+      "family": "ritual",
+      "platform": "facebook",
+      "status": "scheduled",
+      "dueAt": "2026-11-30T19:35:00.000Z",
+      "id": "6b0a5c0541454797eaeeaeb2",
+      "channelId": "6b033c308541f09ecb6897b8",
+      "text": "Your evening audio. A darker space.\n\nNocturne combines a contoured sleep mask with integrated stereo speakers and Bluetooth connection. It is a different product from the heated SootheSight massager.\n\nWhat would you add to your evening corner?\nExplore Nocturne: https://solacen.store/products/3d-stereo-sleep-mask-with-bluetooth-headphones?utm_source=facebook&utm_medium=organic_social&utm_campaign=solacen_organic_2026&utm_content=nocturne01&variant=49572439032046",
+      "sentAt": null,
+      "externalLink": null,
+      "schedulingType": "automatic",
+      "metricsUpdatedAt": "2026-11-28T04:43:49.526Z",
+      "metrics": [
+        {
+          "type": "reactions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "value": 0,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "value": 0,
+          "unit": "count"
+        }
+      ],
+      "error": null
     }
   },
   "alerts": [],
-  "last_run_utc": "2026-11-27T18:10:29.968641+00:00"
+  "last_run_utc": "2026-11-28T04:43:47.242677+00:00"
 }
